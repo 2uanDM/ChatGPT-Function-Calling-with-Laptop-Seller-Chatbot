@@ -5,6 +5,11 @@
     "parameters": null
   },
   {
+    "name": "buy_laptop_or_leave_contact",
+    "description": "This function have to be called when the user want to (Buy an specific laptop or have a meeting at the shop, or want or give comment to the chatbot. This function has higher priority to call than get_laptop_detail",
+    "parameters": null
+  },
+  {
     "name": "get_laptop_detail",
     "description": "You are TTChat, a chatbot that helps users choose the suitable laptop based on their needs. This function must be called when the user wants to know detail about some founded product. I will give you a description below with those laptop",
     "parameters": {

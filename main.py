@@ -12,6 +12,7 @@ from src.utils.gpt_trigger_function import build_filter_query, print_haha
 from src.utils.csv_builder import create_temp_csv_file
 from src.utils.chat_on_demand import chat_on_demand
 from src.utils.load_prompts import load_prompts
+from src.utils.google_sheet import read_data, update_data
 
 if 'current_query' not in st.session_state:
     st.session_state['current_query'] = None
@@ -21,6 +22,91 @@ if 'remain_laptops' not in st.session_state:
 
 if 'current_laptops' not in st.session_state:
     st.session_state['current_laptops'] = None
+
+if 'show_form' not in st.session_state:
+    st.session_state['show_form'] = False
+
+
+def _submit_user_data():
+    # Get all data in sidebar
+    data = {}
+
+    # Get the last ID
+    data['STT'] = read_data().iloc[-1]['STT'] + 1
+    data['Họ và Tên'] = st.session_state.get('user_name', '')
+    data['Số điện thoại'] = st.session_state.get('user_phone', '')
+    data['Email'] = st.session_state.get('user_email', '')
+    data['Ngày hẹn (Dự kiến)'] = st.session_state.get('user_date', '')
+    data['Giờ hẹn (Dự kiến)'] = st.session_state.get('user_time', '')
+    data['Lí do khách hàng hẹn'] = st.session_state.get('user_reason', '')
+
+    for key, value in data.items():
+        if value == '':
+            st.error(f'Vui lòng điền đầy đủ thông tin vào {key}')
+            return
+
+    if not data['Ngày hẹn (Dự kiến)'] == '':
+        data['Ngày hẹn (Dự kiến)'] = data['Ngày hẹn (Dự kiến)'].strftime("%d/%m/%Y")
+
+    if not data['Giờ hẹn (Dự kiến)'] == '':
+        data['Giờ hẹn (Dự kiến)'] = data['Giờ hẹn (Dự kiến)'].strftime("%H:%M")
+
+    data['STT'] = int(data['STT'])
+
+    print(data)
+
+    with st.spinner('Đang viết dữ liệu vào Google Sheet ...'):
+        # Update the data
+        update_data(data)
+
+    msg = 'Đã gửi thông tin thành công, em sẽ liên hệ với anh/chị trong thời gian sớm nhất !'
+    st.session_state.messages.append(
+        {'role': 'assistant', 'content': msg}
+    )
+    _type_writer(msg, speed=40)
+
+    # Thank you for using the chatbot
+    msg = 'Em cảm ơn anh/chị đã sử dụng dịch vụ tư vấn của em - TTChat ạ'
+    st.session_state.messages.append(
+        {'role': 'assistant', 'content': msg}
+    )
+    _type_writer(msg, speed=40)
+
+    st.balloons()
+
+    st.session_state['show_form'] = False
+
+
+if st.session_state['show_form']:
+    # Create in sidebar
+    st.sidebar.subheader('Thông tin khách hàng')
+    user_name = st.sidebar.text_input(label='Họ và tên', key='input_user_name')
+    phone_num = st.sidebar.text_input(label='Số điện thoại', key='input_user_phone')
+    email = st.sidebar.text_input(label='Email', key='input_user_email')
+    meet_date = st.sidebar.date_input(label='Ngày hẹn (Dự kiến)', key='input_user_date')
+    meet_time = st.sidebar.time_input(label='Giờ hẹn (Dự kiến)', key='input_user_time')
+    reason = st.sidebar.text_input(label='Lí do khách hàng hẹn', key='input_user_reason')
+
+    if user_name:
+        st.session_state.user_name = user_name
+
+    if phone_num:
+        st.session_state.user_phone = phone_num
+
+    if email:
+        st.session_state.user_email = email
+
+    if meet_date:
+        st.session_state.user_date = meet_date
+
+    if meet_time:
+        st.session_state.user_time = meet_time
+
+    if reason:
+        st.session_state.user_reason = reason
+
+    # Submit button
+    submit = st.sidebar.button(label='Gửi thông tin', key='submit', on_click=_submit_user_data)
 
 
 def current_context_calculator() -> int:
@@ -49,6 +135,9 @@ def my_exception_hook(exctype, value, tb):
     print(f"==>> Type: {type}")
     print(f"==>> Value: {value}")
     traceback.print_tb(tb)
+
+
+sys.excepthook = my_exception_hook
 
 
 def _type_writer(text: str, speed: int = 100) -> None:
@@ -321,7 +410,24 @@ def queries_db(**kwargs):
         _type_writer(message, speed=100)
 
 
-sys.excepthook = my_exception_hook
+def buy_laptop_or_leave_contact():
+    """
+        This function is call when user want to contact with the human for some purpose (go to store, buy laptop, ...)
+    Returns:
+    """
+
+    # Thank you for using the chatbot
+    msg = 'Em cảm ơn anh/chị đã sử dụng dịch vụ của em, trước khi tiếp tục, em xin phép được hỏi anh/chị một số thông tin nhé'
+    st.session_state.messages.append(
+        {'role': 'assistant', 'content': msg}
+    )
+    _type_writer(msg, speed=40)
+
+    _type_writer('Anh/chị điền giúp em những thông tin ở cột bên trái với ạ !', speed=40)
+
+    st.session_state['show_form'] = True
+
+    st.rerun()
 
 
 class ChatGUI():
@@ -383,30 +489,13 @@ class ChatGUI():
             ]
 
     def _init_sidebar(self) -> None:
-        self.openai_api_key = st.sidebar.text_input(
-            label='Nhập OpenAI API Key của bạn:',
-            value=self.BOT_CONFIG['openai_api_key'],
-            key='chatbot_api_key',
-            type='password')
-
-        self.save_bot_config = st.sidebar.button(label='Lưu cấu hình', use_container_width=True)
-
-        if self.save_bot_config:
-            self.BOT_CONFIG['openai_api_key'] = self.openai_api_key
-            with open('config/bot.json', 'w', encoding='utf-8') as f:
-                json.dump(self.BOT_CONFIG, f, ensure_ascii=False, indent=4)
-            st.success('Đã lưu cấu hình thành công')
+        pass
 
     def _init_chatui(self) -> None:
         st.title("💬TTChat - Cùng mua laptop nhé")
         st.caption(f"🚀 Dữ liệu về laptop được cập nhật đến ngày {self.date}")
 
-        if not self.openai_api_key:
-            st.info("Vui lòng nhập OpenAI API Key để tiếp tục")
-            st.stop()
-
         # Load message history of session into chat message
-        print(st.session_state.conversation)
         for msg in st.session_state.conversation:
             if msg['role'] != 'system':
                 st.chat_message(msg["role"]).write(msg["content"])

@@ -4,8 +4,10 @@ streamlit
 scrapy
 requests
 beautifulsoup4
-httpx
-httpcore
 webdriver-manager==4.0.1
 selenium==4.11.2
 pandas
+google-spreadsheet==0.0.6
+google-auth-oauthlib==1.0.0
+gspread==5.10.0
+pyOpenSSL==23.2.0
