@@ -36,7 +36,7 @@ def my_exception_hook(exctype, value, tb):
 sys.excepthook = my_exception_hook
 
 
-def tgdd_parser_prompt(raw_specs: str) -> str:
+def _tgdd_parser_prompt(raw_specs: str) -> str:
     """
         Provide the raw spec of a laptop, build a prompt to make features more robusts and return as json
     Args:
@@ -50,8 +50,8 @@ def tgdd_parser_prompt(raw_specs: str) -> str:
 
     Extract the specs of the laptop and return as json object includes:
     {{
-        'laptop_type': str, (gamming, workstation, business, normal) (You can infer from the name of the laptop, do not uppercase the first letter)
-        'cpu': str,
+        'laptop_type': str, (gaming, workstation, business, normal) (You can infer from the name of the laptop, do not uppercase the first letter)
+        'cpu': str, (Keep the name of the cpu as it is in the raw specs)
         'cpu_generation': int, (For example, if the cpu is i7-1165G7, the cpu generation is 11 , and i7 13620H, then it is 13) 
         'disk_type': str,
         'disk_size': int,
@@ -61,7 +61,7 @@ def tgdd_parser_prompt(raw_specs: str) -> str:
         'screen_resolution': str,
         'screen_refresh_rate': int, (If the you can't find this info, set it to 60)
         'gpu_type': str (dedicated or integrated),
-        'gpu_model': str,
+        'gpu_model': str, (you have to add the gpu manufacturer also, nvidia or amd depend on the provided information)
         'weight_kg': float,
         'ports': str, (separated by comma),
         'special_features': str, (separated by comma),
@@ -75,17 +75,24 @@ def tgdd_parser_prompt(raw_specs: str) -> str:
     return message
 
 
-def get_json_tgdd(url: str, raw_specs: str) -> dict:
+def convert_json(url: str, raw_specs: str) -> dict:
     """
-        Parse the specs of a laptop from the block of <ul> tag containing the specs of a laptop
+        Parse the specs of a laptop from the raw html containing the specs of a laptop
     Args:
         raw_specs (str)
 
     Returns:
         dict: The specs of a laptop
+        ```
+        {
+            'status': 'error',
+            'message': str(e),
+            'data': None
+        }
+        ```
     """
     try:
-        prompt = tgdd_parser_prompt(raw_specs)
+        prompt = _tgdd_parser_prompt(raw_specs)
 
         # Using gpt-3.5-turbo-instruct
         response = client.chat.completions.create(

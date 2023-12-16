@@ -1,0 +1,1930 @@
+[
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_0.html",
+    "product_name": "Laptop Acer Aspire 5 Gaming A515 58GM 51LB i5 13420H/16GB/512GB/4GB RTX2050/Win11 (NX.KQ4SV.002)",
+    "present_price": 16990000,
+    "old_price": 20490000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i5, 13420H, 2.1GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card rời, RTX 2050 4GB\nCổng kết nối:: HDMI, LAN (RJ45), Jack tai nghe 3.5 mm, 1 x USB Type-C (hỗ trợ USB, Thunderbolt 4), 2 x USB Type-A\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 361 mm - Rộng 237 mm - Dày 17.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_1.html",
+    "product_name": "Laptop Acer Aspire 3 A315 510P 32EF i3 N305/8GB/256GB/Win11 (NX.KDHSV.001)",
+    "present_price": 8290000,
+    "old_price": 9990000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i3 chuỗi N, N305\nRAM:: 8 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 362.9 mm - Rộng 237.5 mm - Dày 18.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_10.html",
+    "product_name": "Laptop Acer Aspire 5 A515 58P 34RJ i3 1315U/8GB/512GB/Win11 (NX.KHJSV.003)",
+    "present_price": 10990000,
+    "old_price": 13090000,
+    "discount": 0.16,
+    "raw_specs": "CPU:: i3, 1315U, 1.2GHz\nRAM:: 8 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 362.9 mm - Rộng 237.5 mm - Dày 17.99 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_11.html",
+    "product_name": "Laptop Acer TravelMate P4 TMP414 51G 59R6 i5 1135G7/16GB/512GB/2GB MX350/Win11 (NX.VP9SV.001)",
+    "present_price": 14990000,
+    "old_price": 25990000,
+    "discount": 0.42,
+    "raw_specs": "CPU:: i5, 1135G7, 2.4GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 2666 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card rời, MX350 2GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 325 mm - Rộng 236 mm - Dày 17.9 mm - Nặng 1.4 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_12.html",
+    "product_name": "Laptop Acer Aspire 3 A314 35 P3G9 N6000/4GB/256GB/Win11 (NX.A7SSV.007)",
+    "present_price": 6990000,
+    "old_price": 7990000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: Pentium, N6000, 1.1GHz\nRAM:: 4 GB, DDR4 2 khe (1 khe 4 GB + 1 khe rời), 2400 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 256 GB SSD M.2 SATA 3 (Có thể tháo ra lắp thanh khác tối đa 1 TB), Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 14\", HD (1366 x 768)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 328 mm - Rộng 236 mm - Dày 19.9 mm - Nặng 1.45 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_13.html",
+    "product_name": "Laptop Acer Aspire 7 Gaming A715 43G R8GA R5 5625U/8GB/512GB/4GB RTX3050/144Hz/Win11 (NH.QHDSV.002)",
+    "present_price": 16490000,
+    "old_price": 21990000,
+    "discount": 0.25,
+    "raw_specs": "CPU:: Ryzen 5, 5625U, 2.30 GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 4GB\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 363.4 mm - Rộng 254.5 mm - Dày 22.9 mm - Nặng 2.1 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_14.html",
+    "product_name": "Laptop Acer Aspire 3 A315 59 314F i3 1215U/8GB/256GB/Win11 (NX.K6TSV.002)",
+    "present_price": 8790000,
+    "old_price": 13490000,
+    "discount": 0.35,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 4 GB + 1 khe 4 GB), Từ 2400 MHz (Hãng công bố)\nỔ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 362.9 mm - Rộng 241.26 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_15.html",
+    "product_name": "Laptop Acer TravelMate P4 TMP414 51 50HX i5 1135G7/8GB/512GB/Win11 (NX.VP2SV.00T)",
+    "present_price": 13990000,
+    "old_price": 22490000,
+    "discount": 0.38,
+    "raw_specs": "CPU:: i5, 1135G7, 2.4GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 4 GB + 1 khe 4 GB), Từ 2666 MHz (Hãng công bố)\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 325 mm - Rộng 236 mm - Dày 17.9 mm - Nặng 1.4 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_16.html",
+    "product_name": "Laptop Acer Aspire 3 A315 59 38PG i3 1215U/8GB/512GB/Win11 (NX.K6TSV.00A)",
+    "present_price": 9490000,
+    "old_price": 13990000,
+    "discount": 0.32,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 2400 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ thêm 1 khe cắm HDD SATA (nâng cấp tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 362.9 mm - Rộng 241.26 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_17.html",
+    "product_name": "Laptop Acer Swift 3 SF314 512 56QN i5 1240P/16GB/512GB/Win11 (NX.K0FSV.002)",
+    "present_price": 18490000,
+    "old_price": 23990000,
+    "discount": 0.23,
+    "raw_specs": "CPU:: i5, 1240P, 1.7GHz\nRAM:: 16 GB, LPDDR4X (Onboard), 4267 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", QHD (2160 x 1440)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, 2 x Thunderbolt 4, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 321 mm - Rộng 210.8 mm - Dày 15.9 mm - Nặng 1.2 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_18.html",
+    "product_name": "Laptop Acer Aspire 7 Gaming A715 76G 59MW i5 12450H/8GB/512GB/4GB RTX2050/144Hz/Win11 (NH.QMYSV.001)",
+    "present_price": 17990000,
+    "old_price": 21490000,
+    "discount": 0.16,
+    "raw_specs": "CPU:: i5, 12450H, 2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 2050 4GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 362.3 mm - Rộng 237.4 mm - Dày 19.9 mm - Nặng 2.1 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_19.html",
+    "product_name": "Laptop Acer Aspire 3 A315 58 35AG i3 1115G4/4GB/256GB/Win11 (NX.ADDSV.00B)",
+    "present_price": 8290000,
+    "old_price": 11290000,
+    "discount": 0.27,
+    "raw_specs": "CPU:: i3, 1115G4, 3GHz\nRAM:: 4 GB, DDR4 (Onboard 4 GB +1 khe rời), 2400 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 363.4 mm - Rộng 238.4 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_2.html",
+    "product_name": "Laptop Acer Aspire 3 A315 58 589K i5 1135G7/8GB/256GB/Win11 (NX.AM0SV.008)",
+    "present_price": 10990000,
+    "old_price": 13990000,
+    "discount": 0.21,
+    "raw_specs": "CPU:: i5, 1135G7, 2.4GHz\nRAM:: 8 GB, DDR4 (Onboard 4 GB + 1 khe 4 GB), Từ 2400 MHz (Hãng công bố)\nỔ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 363.4 mm - Rộng 238.4 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_20.html",
+    "product_name": "Laptop Acer Aspire 3 A314 36M 391A i3 N305/8GB/512GB/Win11 (NX.KDMSV.002)",
+    "present_price": 9490000,
+    "old_price": 11790000,
+    "discount": 0.2,
+    "raw_specs": "CPU:: i3 chuỗi N, N305\nRAM:: 8 GB, LPDDR5 (Onboard), 5200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 328.3 mm - Rộng 217.15 mm - Dày 18 mm - Nặng 1.4 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_21.html",
+    "product_name": "Laptop Acer Gaming Nitro V ANV15 51 57B2 i5 13420H/8GB/512GB/6GB RTX4050/144Hz/Win11 (NH.QN8SV.001)",
+    "present_price": 24490000,
+    "old_price": 26990000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i5, 13420H, 2.1GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 5200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 4050 6GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 362.3 mm - Rộng 239.89 mm - Dày 22.9 ~ 26.9 mm - Nặng 2.1 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_22.html",
+    "product_name": "Laptop Acer Nitro 5 Tiger AN515 58 52SP i5 12500H/8GB/512GB/4GB RTX3050/144Hz/Win11 (NH.QFHSV.001)",
+    "present_price": 21990000,
+    "old_price": 27990000,
+    "discount": 0.21,
+    "raw_specs": "CPU:: i5, 12500H, 2.5GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ thêm 1 khe cắm HDD SATA (nâng cấp tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 4GB\nCổng kết nối:: HDMI, LAN (RJ45), 3 x USB 3.2, Thunderbolt 4 USB-C, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 360.4 mm - Rộng 271.09 mm - Dày 25.9 mm - Nặng 2.5 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_23.html",
+    "product_name": "Laptop Acer Gaming Nitro 5 AN515 57 53F9 i5 11400H/8GB/512GB/4GB RTX3050/144Hz/Win11 (NH.QENSV.008)",
+    "present_price": 18990000,
+    "old_price": 24990000,
+    "discount": 0.24,
+    "raw_specs": "CPU:: i5, 11400H, 2.7GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 2 TB), Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 4GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 363.4 mm - Rộng 255 mm - Dày 23.9 mm - Nặng 2.2 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_24.html",
+    "product_name": "Laptop Acer Aspire 7 Gaming A715 76G 5806 i5 12450H/16GB/512GB/4GB RTX3050/144Hz/Win11 (NH.QMFSV.002)",
+    "present_price": 18990000,
+    "old_price": 22990000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i5, 12450H, 2GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 4GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 362.3 mm - Rộng 237.4 mm - Dày 19.9 mm - Nặng 2.1 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_25.html",
+    "product_name": "Laptop Acer TravelMate P4 TMP414 51 73F4 i7 1165G7/16GB/1TB/Win11 (NX.VP2SV.00W)",
+    "present_price": 17990000,
+    "old_price": 29790000,
+    "discount": 0.4,
+    "raw_specs": "CPU:: i7, 1165G7, 2.8GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), Từ 2666 MHz (Hãng công bố)\nỔ cứng:: 1 TB SSD M.2 PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 325 mm - Rộng 236 mm - Dày 17.9 mm - Nặng 1.4 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_26.html",
+    "product_name": "Laptop Acer Gaming Predator Helios Neo 16 PHN16 71 7460 i7 13700HX/8GB/512GB/6GB RTX4050/165Hz/Win11 (NH.QLTSV.004)",
+    "present_price": 38290000,
+    "old_price": 38990000,
+    "discount": 0.02,
+    "raw_specs": "CPU:: i7, 13700HX, 2.1GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 16\", WQXGA (2560 x 1600), 165Hz\nCard màn hình:: Card rời, RTX 4050 6GB\nCổng kết nối:: 2 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 360.1 mm - Rộng 279.9 mm - Dày 26.55 ~ 28.25 mm - Nặng 2.6 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_27.html",
+    "product_name": "Laptop Acer Gaming Predator Helios Neo 16 PHN16 71 54CD i5 13500HX/8GB/512GB/6GB RTX4050/165Hz/Win11 (NH.QLTSV.001)",
+    "present_price": 35990000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i5, 13500HX, 2.5GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 16\", WQXGA (2560 x 1600), 165Hz\nCard màn hình:: Card rời, RTX 4050 6GB\nCổng kết nối:: 2 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 360.1 mm - Rộng 279.9 mm - Dày 26.55 ~ 28.25 mm - Nặng 2.6 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_28.html",
+    "product_name": "Laptop Acer Nitro 5 Tiger AN515 58 773Y i7 12700H/8GB/512GB/4GB RTX3050Ti/144Hz/Win11 (NH.QFKSV.001)",
+    "present_price": 25490000,
+    "old_price": 31990000,
+    "discount": 0.2,
+    "raw_specs": "CPU:: i7, 12700H, 2.30 GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050Ti 4GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ cổng Thunderbolt 4), HDMI, LAN (RJ45), USB Type-C, 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 360.4 mm - Rộng 271.09 mm - Dày 25.9 mm - Nặng 2.5 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_29.html",
+    "product_name": "Laptop Acer Gaming Nitro V ANV15 51 53NE i5 13420H/16GB/512GB/4GB RTX2050/144Hz/Win11 (NH.QNASV.002)",
+    "present_price": 20990000,
+    "old_price": 23990000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i5, 13420H, 2.1GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 5200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 2050 4GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 362.3 mm - Rộng 239.89 mm - Dày 22.9 ~ 26.9 mm - Nặng 2.1 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_3.html",
+    "product_name": "Laptop Acer Aspire 3 A315 59 5283 i5 1235U/8GB/512GB/Win11 (NX.K6TSV.00B)",
+    "present_price": 12390000,
+    "old_price": 15990000,
+    "discount": 0.23,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), Từ 2400 MHz (Hãng công bố)\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ thêm 1 khe cắm HDD SATA (nâng cấp tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 362.9 mm - Rộng 241.26 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_30.html",
+    "product_name": "Laptop Acer Swift 3 SF314 511 55QE i5 1135G7/16GB/512GB/Win11 (NX.ABNSV.003)",
+    "present_price": 16290000,
+    "old_price": 22990000,
+    "discount": 0.29,
+    "raw_specs": "CPU:: i5, 1135G7, 2.4GHz\nRAM:: 16 GB, LPDDR4X (Onboard), 4266 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, Thunderbolt 4 USB-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 322.8 mm - Rộng 212.2 mm - Dày 15.9 mm - Nặng 1.19 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_31.html",
+    "product_name": "Laptop Acer Aspire 5 A514 54 511G i5 1135G7/8GB/1TB SSD/Win11 (NX.A28SV.009)",
+    "present_price": 14990000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i5, 1135G7, 2.4GHz\nRAM:: 8 GB, DDR4 (Onboard 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB), 1 TB SSD M.2 PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 328 mm - Rộng 223 mm - Dày 17.95 mm - Nặng 1.46 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_32.html",
+    "product_name": "Laptop Acer Predator Helios PH16 71 94N1 i9 13900HX/32GB/2TB/12GB RTX4080/240Hz/Win11 (NH.QJSSV.002)",
+    "present_price": null,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i9, 13900HX, 3.90 GHz\nRAM:: 32 GB, DDR5 2 khe (1 khe 16 GB + 1 khe 16 GB), 5600 MHz\nỔ cứng:: 2 TB\nMàn hình:: 16\", WQXGA (2560 x 1600), 240Hz\nCard màn hình:: Card rời, RTX 4080 12GB\nCổng kết nối:: 2 x USB Type-C (hỗ trợ DisplayPort, Thunderbolt 4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 357.78 mm - Rộng 278.74 mm - Dày 24.9 ~ 26.9 mm - Nặng 2.6 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_33.html",
+    "product_name": "Laptop Acer Predator Helios PH18 71 94SJ i9 13900HX/32GB/2TB/12GB RTX4080/240Hz/Win11 (NH.QKRSV.002)",
+    "present_price": null,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i9, 13900HX, 3.90 GHz\nRAM:: 32 GB, DDR5 2 khe (1 khe 16 GB + 1 khe 16 GB), 5600 MHz\nỔ cứng:: 2 TB SSD NVMe PCIe\nMàn hình:: 18\", WQXGA (2560 x 1600), 240Hz\nCard màn hình:: Card rời, RTX 4080 12GB\nCổng kết nối:: 2 x USB Type-C (hỗ trợ DisplayPort, Thunderbolt 4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 405 mm - Rộng 311.61 mm - Dày 27.15 ~ 29.15 mm - Nặng 3.1 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_34.html",
+    "product_name": "Laptop Acer Gaming Nitro 17 Phoenix AN17 51 50B9 i5 13500H/8GB/512GB/6GB RTX4050/165Hz/Win11 (NH.QK5SV.001)",
+    "present_price": null,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i5, 13500H, 2.6GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 17.3\", Full HD (1920 x 1080), 165Hz\nCard màn hình:: Card rời, RTX 4050 6GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4), 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 400.2 mm - Rộng 293.25 mm - Dày 27.9 ~ 28.9 mm - Nặng 3 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_35.html",
+    "product_name": "Laptop Acer Gaming Predator Helios Neo 16 PHN16 71 74BA i7 13700HX/16GB/512GB/8GB RTX4060/165Hz/Win11 (NH.QLUSV.004)",
+    "present_price": null,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i7, 13700HX, 2.1GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 16\", WQXGA (2560 x 1600), 165Hz\nCard màn hình:: Card rời, RTX 4060 8GB\nCổng kết nối:: 2 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 360.1 mm - Rộng 279.9 mm - Dày 26.55 ~ 28.25 mm - Nặng 2.6 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_4.html",
+    "product_name": "Laptop Acer Aspire 5 A514 54 5127 i5 1135G7/8GB/512GB/Win11 (NX.A28SV.007)",
+    "present_price": 13190000,
+    "old_price": 15490000,
+    "discount": 0.15,
+    "raw_specs": "CPU:: i5, 1135G7, 2.4GHz\nRAM:: 8 GB, DDR4 (Onboard 4 GB + 1 khe 4 GB), 2666 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 328 mm - Rộng 223 mm - Dày 17.95 mm - Nặng 1.46 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_5.html",
+    "product_name": "Laptop Acer Aspire 3 A315 58 54XF i5 1135G7/8GB/512GB/Win11 (NX.AM0SV.007)",
+    "present_price": 11490000,
+    "old_price": 14990000,
+    "discount": 0.23,
+    "raw_specs": "CPU:: i5, 1135G7, 2.4GHz\nRAM:: 8 GB, DDR4 (Onboard 4 GB + 1 khe 4 GB), Từ 2400 MHz (Hãng công bố)\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 363.4 mm - Rộng 238.4 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_6.html",
+    "product_name": "Laptop Acer Nitro 5 Gaming AN515 57 5669 i5 11400H/8GB/512GB/144Hz/4GB GTX1650/Win11 (NH.QEHSV.001)",
+    "present_price": 16990000,
+    "old_price": 23790000,
+    "discount": 0.29,
+    "raw_specs": "CPU:: i5, 11400H, 2.7GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, GTX 1650 4GB\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 363.4 mm - Rộng 255 mm - Dày 23.9 mm - Nặng 2.2 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_7.html",
+    "product_name": "Laptop Acer Aspire 3 A314 35 C3KS N5100/4GB/256GB/Win11 (NX.A7SSV.009)",
+    "present_price": 5990000,
+    "old_price": 6990000,
+    "discount": 0.14,
+    "raw_specs": "CPU:: Celeron, N5100, 1.1GHz\nRAM:: 4 GB, DDR4 2 khe (1 khe 4 GB + 1 khe rời), Từ 2400 MHz (Hãng công bố)\nỔ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ khe cắm HDD SATA\nMàn hình:: 14\", HD (1366 x 768)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 328 mm - Rộng 236 mm - Dày 19.9 mm - Nặng 1.45 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_8.html",
+    "product_name": "Laptop Acer Aspire Vero AV15 51 58HB i5 1155G7/8GB/512GB/Win11 (NX.AYCSV.002)",
+    "present_price": 12990000,
+    "old_price": 17990000,
+    "discount": 0.28,
+    "raw_specs": "CPU:: i5, 1155G7, 2.5GHz\nRAM:: 8 GB, DDR4 (Onboard 4 GB + 1 khe 4 GB), Từ 2666 MHz (Hãng công bố)\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa PCR\nKích thước, khối lượng:: Dài 363.4 mm - Rộng 238.5 mm - Dày 17.9 mm - Nặng 1.8 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/acer_9.html",
+    "product_name": "Laptop Acer Gaming Nitro 5 AN515 58 769J i7 12700H/8GB/512GB/4GB RTX3050/144Hz/Win11 (NH.QFHSV.003)",
+    "present_price": 23490000,
+    "old_price": 31790000,
+    "discount": 0.26,
+    "raw_specs": "CPU:: i7, 12700H, 2.30 GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng, Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 4GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, DisplayPort, Thunderbolt 4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 360.4 mm - Rộng 271.09 mm - Dày 25.9 mm - Nặng 2.5 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_0.html",
+    "product_name": "Laptop Asus TUF Gaming F15 FX506HF i5 11400H/8GB/512GB/4GB RTX2050/144Hz/Win11 (HN014W)",
+    "present_price": 16990000,
+    "old_price": 19990000,
+    "discount": 0.15,
+    "raw_specs": "CPU:: i5, 11400H, 2.7GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 2050 4GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 359 mm - Rộng 256 mm - Dày 22.8 ~ 24.5 mm - Nặng 2.3 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_1.html",
+    "product_name": "Laptop Asus Vivobook Go 15 E1504FA R5 7520U/16GB/512GB/Chuột/Win11 (NJ776W)",
+    "present_price": 13990000,
+    "old_price": 14490000,
+    "discount": 0.03,
+    "raw_specs": "CPU:: Ryzen 5, 7520U, 2.8GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 5500 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Radeon\nCổng kết nối:: HDMI, USB Type-C, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 360.3 mm - Rộng 232.5 mm - Dày 17.9 mm - Nặng 1.63 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_10.html",
+    "product_name": "Laptop Asus Vivobook S 14 Flip TP3402VA i5 13500H/16GB/512GB/Touch/Win11 (LZ031W)",
+    "present_price": 19990000,
+    "old_price": 21990000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i5, 13500H, 2.6GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", WUXGA (1920 x 1200)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort), HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 313.2 mm - Rộng 227.6 mm - Dày 18.9 mm - Nặng 1.5 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_11.html",
+    "product_name": "Laptop Asus TUF Gaming F15 FX506HC i5 11400H/16GB/512GB/4GB RTX3050/144Hz/Win11 (HN949W)",
+    "present_price": 18990000,
+    "old_price": 22990000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i5, 11400H, 2.7GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 4GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359 mm - Rộng 256 mm - Dày 22.8 ~ 24.5 mm - Nặng 2.3 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_12.html",
+    "product_name": "Laptop Asus Vivobook X1404ZA i3 1215U/8GB/512GB/Win11/(NK246W)",
+    "present_price": 10790000,
+    "old_price": 11990000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 2933 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, USB Type-C, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 324.9 mm - Rộng 213.9 mm - Dày 17.9 mm - Nặng 1.4 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_13.html",
+    "product_name": "Laptop Asus Vivobook 15 X1504VA i7 1355U/16GB/512GB/Win11 (NJ023W)",
+    "present_price": 19490000,
+    "old_price": 22990000,
+    "discount": 0.15,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, USB Type-C, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.7 mm - Rộng 232.5 mm - Dày 17.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_14.html",
+    "product_name": "Laptop Asus Vivobook 14 X1404VA i5 1335U/16GB/512GB/Win11 (NK050W)",
+    "present_price": 16490000,
+    "old_price": 18490000,
+    "discount": 0.11,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 2933 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, USB Type-C, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 324.9 mm - Rộng 213.9 mm - Dày 17.9 mm - Nặng 1.4 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_15.html",
+    "product_name": "Laptop Asus TUF Gaming F15 FX507ZC4 i5 12500H/8GB/512GB/4GB RTX3050/144Hz/Win11 (HN074W)",
+    "present_price": 20990000,
+    "old_price": 23990000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i5, 12500H, 2.5GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 4GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), 1 x USB Type-C 3.2 (hỗ trợ DisplayPort / G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 354 mm - Rộng 251 mm - Dày 22.4 ~ 24.9 mm - Nặng 2.2 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_16.html",
+    "product_name": "Laptop Asus Vivobook X515EA i5 1135G7/16GB/512GB/Chuột/Win11 (EJ4155W)",
+    "present_price": 13490000,
+    "old_price": 14990000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i5, 1135G7, 2.4GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 2933 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, 2 x USB 2.0, USB Type-C, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 360 mm - Rộng 235 mm - Dày 19.9 mm - Nặng 1.8 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_17.html",
+    "product_name": "Laptop Asus Vivobook 15 OLED A1505VA i7 13700H/16GB/512GB/Win11 (L1338W)",
+    "present_price": 21990000,
+    "old_price": 24490000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i7, 13700H, 2.4GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 2933 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080) OLED\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery), HDMI, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 356.8 mm - Rộng 227.6 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_18.html",
+    "product_name": "Laptop Asus TUF Gaming F17 FX706HF i5 11400H/16GB/512GB/4GB RTX2050/144Hz/Win11 (HX390W)",
+    "present_price": 19490000,
+    "old_price": 20990000,
+    "discount": 0.07,
+    "raw_specs": "CPU:: i5, 11400H, 2.7GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 17.3\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 2050 4GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 399 mm - Rộng 269 mm - Dày 23.3 ~ 24.8 mm - Nặng 2.6 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_19.html",
+    "product_name": "Laptop Asus Vivobook 15 OLED A1505VA i5 13500H/8GB/512GB/Win11 (L1052W)",
+    "present_price": 16490000,
+    "old_price": 20490000,
+    "discount": 0.2,
+    "raw_specs": "CPU:: i5, 13500H, 2.6GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080) OLED\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery), HDMI, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 356.8 mm - Rộng 227.6 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_2.html",
+    "product_name": "Laptop Asus Vivobook 15 X1504ZA i3 1215U/8GB/512GB/Win11 (NJ102W)",
+    "present_price": 10890000,
+    "old_price": 12290000,
+    "discount": 0.11,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, USB Type-C, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.7 mm - Rộng 232.5 mm - Dày 17.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_20.html",
+    "product_name": "Laptop Asus Vivobook X515EA i3 1115G4/8GB/512GB/Win11 (EJ3948W)",
+    "present_price": 10290000,
+    "old_price": 11290000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i3, 1115G4, 3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 2 x USB 2.0, USB Type-C, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 360 mm - Rộng 235 mm - Dày 19.9 mm - Nặng 1.8 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_21.html",
+    "product_name": "Laptop Asus Zenbook 14 OLED UX3402VA i5 1340P/16GB/512GB/Cáp/Túi/Win11 (KM085W)",
+    "present_price": 25490000,
+    "old_price": 27990000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i5, 1340P, 1.9GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0\nMàn hình:: 14\", 2.8K (2880 x 1800) - OLED, 90Hz\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 hỗ trợ display / power delivery, HDMI, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nhôm\nKích thước, khối lượng:: Dài 313.6 mm - Rộng 220.6 mm - Dày 16.9 mm - Nặng 1.39 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_22.html",
+    "product_name": "Laptop Asus Vivobook 14X OLED S3405VA i5 13500H/16GB/512GB/Win11 (KM072W)",
+    "present_price": 19990000,
+    "old_price": 22990000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i5, 13500H, 2.6GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", 2.8K (2880 x 1800) - OLED 16:10, 90Hz\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 317.1 mm - Rộng 222.5 mm - Dày 18.9 mm - Nặng 1.4 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_23.html",
+    "product_name": "Laptop Asus Vivobook 14X OLED K3405VC i5 13500H/16GB/512GB/4GB RTX3050/Win11 (KM006W)",
+    "present_price": 25490000,
+    "old_price": 29490000,
+    "discount": 0.14,
+    "raw_specs": "CPU:: i5, 13500H, 2.6GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", 2.8K (2880 x 1800) - OLED 16:10, 90Hz\nCard màn hình:: Card rời, RTX 3050 4GB\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 317.1 mm - Rộng 222.5 mm - Dày 18.9 mm - Nặng 1.4 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_24.html",
+    "product_name": "Laptop Asus Vivobook 15 OLED A1505VA i9 13900H/16GB/512GB/Win11 (L1201W)",
+    "present_price": 23490000,
+    "old_price": 24990000,
+    "discount": 0.06,
+    "raw_specs": "CPU:: i9, 13900H, 2.6GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080) OLED\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery), HDMI, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 356.8 mm - Rộng 227.6 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_25.html",
+    "product_name": "Laptop Asus TUF Gaming F15 FX507ZE i7 12700H/8GB/512GB/4GB RTX3050Ti/144Hz/Win11 (HN093W)",
+    "present_price": 23490000,
+    "old_price": 28990000,
+    "discount": 0.19,
+    "raw_specs": "CPU:: i7, 12700H, 2.30 GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050Ti 4GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), 1 x USB Type-C 3.2 (hỗ trợ DisplayPort / G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 354 mm - Rộng 251 mm - Dày 24.9 mm - Nặng 2.2 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_26.html",
+    "product_name": "Laptop Asus Gaming TUF Dash F15 FX517ZE i5 12450H/8GB/512GB/4GB RTX3050Ti/144Hz/Win11 (HN045W)",
+    "present_price": 19990000,
+    "old_price": 24990000,
+    "discount": 0.2,
+    "raw_specs": "CPU:: i5, 12450H, 2GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050Ti 4GB\nCổng kết nối:: Thunderbolt 4, HDMI, LAN (RJ45), USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 354 mm - Rộng 251 mm - Dày 20.7 mm - Nặng 2 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_27.html",
+    "product_name": "Laptop Asus Gaming ROG Strix G15 G513IH R7 4800H/8GB/512GB/4GB GTX1650/144Hz/Win11 (HN015W)",
+    "present_price": 17990000,
+    "old_price": 22990000,
+    "discount": 0.22,
+    "raw_specs": "CPU:: Ryzen 7, 4800H, 2.9GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, GTX 1650 4GB\nCổng kết nối:: USB Type-C (hỗ trợ Power Delivery và DisplayPort), HDMI, LAN (RJ45), Jack tai nghe 3.5 mm, 3x Type-A USB 3.2 Gen 1\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 354 mm - Rộng 259 mm - Dày 20.6 mm - Nặng 2.1 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_28.html",
+    "product_name": "Laptop Asus Vivobook 15 OLED A1505ZA i5 12500H/16GB/512GB/Win11 (L1337W)",
+    "present_price": 17990000,
+    "old_price": 19990000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i5, 12500H, 2.5GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 2933 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080) OLED\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, USB Type-C, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 356.8 mm - Rộng 227.6 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_29.html",
+    "product_name": "Laptop Asus Vivobook S 14 Flip TP3402VA i3 1315U/8GB/256GB/Touch/Win11 (LZ025W)",
+    "present_price": 13490000,
+    "old_price": 16990000,
+    "discount": 0.21,
+    "raw_specs": "CPU:: i3, 1315U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe Gen 4\nMàn hình:: 14\", WUXGA (1920 x 1200)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort), HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 313.2 mm - Rộng 227.6 mm - Dày 18.9 mm - Nặng 1.5 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_3.html",
+    "product_name": "Laptop Asus Vivobook X415EA i3 1115G4/8GB/256GB/Win11 (EK2034W)",
+    "present_price": 9790000,
+    "old_price": 10990000,
+    "discount": 0.11,
+    "raw_specs": "CPU:: i3, 1115G4, 3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng, 256 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 2 x USB 2.0, USB Type-C, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 325.4 mm - Rộng 216 mm - Dày 19.9 mm - Nặng 1.55 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_30.html",
+    "product_name": "Laptop Asus Vivobook Go 15 E1504FA R5 7520U/8GB/512GB/Win11 (NJ630W)",
+    "present_price": 11990000,
+    "old_price": 13990000,
+    "discount": 0.14,
+    "raw_specs": "CPU:: Ryzen 5, 7520U, 2.8GHz\nRAM:: 8 GB, LPDDR5 (Onboard), 5500 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Radeon\nCổng kết nối:: HDMI, USB Type-C, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 360.3 mm - Rộng 232.5 mm - Dày 17.9 mm - Nặng 1.63 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_31.html",
+    "product_name": "Laptop Asus Zenbook 14 OLED UX3402ZA i5 1240P/8GB/512GB/90Hz/Cáp/Túi/Win11 (KM220W)",
+    "present_price": 20290000,
+    "old_price": 25490000,
+    "discount": 0.2,
+    "raw_specs": "CPU:: i5, 1240P, 1.7GHz\nRAM:: 8 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", 2.8K (2880 x 1800) - OLED 16:10, 90Hz\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, 2 x Thunderbolt 4, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 313.6 mm - Rộng 220.6 mm - Dày 16.9 mm - Nặng 1.39 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_32.html",
+    "product_name": "Laptop Asus Zenbook 14 Flip OLED UP3404VA i7 1360P/16GB/512GB/Touch/Pen/Cáp/Túi/Win11 (KN039W)",
+    "present_price": 31490000,
+    "old_price": 33990000,
+    "discount": 0.07,
+    "raw_specs": "CPU:: i7, 1360P, 2.2GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0\nMàn hình:: 14\", 2.8K (2880 x 1800) - OLED, 90Hz\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 hỗ trợ display / power delivery, HDMI, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nhôm\nKích thước, khối lượng:: Dài 311.5 mm - Rộng 223.4 mm - Dày 15.9 mm - Nặng 1.5 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_33.html",
+    "product_name": "Laptop Asus TUF Gaming F15 FX507VV4 i9 13900H/16GB/512GB/8GB RTX4060/144Hz/Win11 (LP382W)",
+    "present_price": 36990000,
+    "old_price": 40990000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i9, 13900H, 2.6GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 4060 8GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 354 mm - Rộng 251 mm - Dày 22.4 ~ 24.9 mm - Nặng 2.2 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_34.html",
+    "product_name": "Laptop Asus Gaming ROG Strix SCAR 17 G733PZ R9 7945HX/32GB/1TB/12GB RTX4080/240Hz/Balo/Chuột/Win11 (LL980W)",
+    "present_price": 75990000,
+    "old_price": 90000000,
+    "discount": 0.16,
+    "raw_specs": "CPU:: Ryzen 9, 7945HX, 2.5GHz\nRAM:: 32 GB, DDR5 2 khe (1 khe 16 GB + 1 khe 16 GB), 4800 MHz\nỔ cứng:: 1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 17.3\", WQHD (2560 x 1440), 240Hz\nCard màn hình:: Card rời, RTX 4080 12GB\nCổng kết nối:: 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), 1 x USB Type-C 3.2 (hỗ trợ DisplayPort / G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 395 mm - Rộng 282 mm - Dày 23.4 ~ 28.3 mm - Nặng 3 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_35.html",
+    "product_name": "Laptop Asus Gaming ROG Strix G16 G614JU i7 13650HX/16GB/512GB/6GB RTX4050/165Hz/Win11 (N3777W)",
+    "present_price": 38990000,
+    "old_price": 43990000,
+    "discount": 0.11,
+    "raw_specs": "CPU:: i7, 13650HX, 2.6GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 16\", WUXGA (1920 x 1200), 165Hz\nCard màn hình:: Card rời, RTX 4050 6GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 354 mm - Rộng 264 mm - Dày 22.6 ~ 30.4 mm - Nặng 2.5 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_36.html",
+    "product_name": "Laptop Asus Gaming ROG Strix SCAR 18 G834JY i9 13980HX/64GB/2TB/16GB RTX4090/240Hz/Balo/Chuột/Win11(N6039W)",
+    "present_price": 111990000,
+    "old_price": 125000000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i9, 13980HX, 2.2GHz\nRAM:: 64 GB, DDR5 2 khe (1 khe 32 GB + 1 khe 32 GB), 4800 MHz\nỔ cứng:: 2 TB SSD\nMàn hình:: 18\", WQXGA (2560 x 1600), 240Hz\nCard màn hình:: Card rời, RTX 4090 16GB\nCổng kết nối:: 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), 1 x Thunderbolt 4 (hỗ trợ DisplayPort / G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 399 mm - Rộng 294 mm - Dày 23.1 ~ 30.8 mm - Nặng 3.1 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_37.html",
+    "product_name": "Laptop Asus Gaming ROG Zephyrus Duo 16 GX650PZ R9 7945HX/32GB/1TB/12GB RTX4080/240Hz/Balo/Chuột/Win11 (NM031W)",
+    "present_price": 108990000,
+    "old_price": 125000000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: Ryzen 9, 7945HX, 2.5GHz\nRAM:: 32 GB, DDR5 2 khe (1 khe 16 GB + 1 khe 16 GB), 4800 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 2 TB), 1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)\nMàn hình:: 16\", QHD+ (2560 x 1600) 16:10, 240Hz\nCard màn hình:: Card rời, RTX 4080 12GB\nCổng kết nối:: 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), 1 x USB Type-C 3.2 (hỗ trợ DisplayPort / G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Nắp lưng kim loại - Chiếu nghỉ tay bằng hợp kim nhôm và kính cường lực\nKích thước, khối lượng:: Dài 355 mm - Rộng 266 mm - Dày 20.5 ~ 29.7 mm - Nặng 2.67 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_38.html",
+    "product_name": "Laptop Asus Gaming ROG Strix SCAR 16 G634JZ i9 13980HX/32GB/1TB/12GB RTX4080/240Hz/Balo/Chuột/Win11(N4029W)",
+    "present_price": 84990000,
+    "old_price": 95000000,
+    "discount": 0.11,
+    "raw_specs": "CPU:: i9, 13980HX, 2.2GHz\nRAM:: 32 GB, DDR5 2 khe (1 khe 16 GB + 1 khe 16 GB), 4800 MHz\nỔ cứng:: 1 TB SSD\nMàn hình:: 16\", WQXGA (2560 x 1600), 240Hz\nCard màn hình:: Card rời, RTX 4080 12GB\nCổng kết nối:: 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), 1 x Thunderbolt 4 (hỗ trợ DisplayPort / G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 354 mm - Rộng 264 mm - Dày 22.6 ~ 30.4 mm - Nặng 2.5 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_39.html",
+    "product_name": "Laptop Asus Gaming ROG Zephyrus M16 GU604VI i9 13900H/32GB/1TB/8GB RTX4070/240Hz/Balo/Win11 (NM779W)",
+    "present_price": 71990000,
+    "old_price": 80990000,
+    "discount": 0.11,
+    "raw_specs": "CPU:: i9, 13900H, 2.6GHz\nRAM:: 32 GB, DDR5 2 khe (1 khe 16 GB + 1 khe 16 GB), 4800 MHz\nỔ cứng:: 1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 16\", QHD+ (2560 x 1600), 240Hz\nCard màn hình:: Card rời, RTX 4070 8GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ display/power delivery), 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Nắp lưng bằng kim loại - Chiếu nghỉ tay Nhôm Magie\nKích thước, khối lượng:: Dài 355 mm - Rộng 246 mm - Dày 19.9 ~ 22.3 mm - Nặng 2.1 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_4.html",
+    "product_name": "Laptop Asus VivoBook X515MA N4020/4GB/256GB/Win11 (BR480W)",
+    "present_price": 6490000,
+    "old_price": 7890000,
+    "discount": 0.18,
+    "raw_specs": "CPU:: Celeron, N4020, 1.1GHz\nRAM:: 4 GB, DDR4 (1 khe), 2400 MHz\nỔ cứng:: Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB), 256 GB SSD NVMe PCIe\nMàn hình:: 15.6\", HD (1366 x 768)\nCard màn hình:: Card tích hợp, Intel UHD 600\nCổng kết nối:: HDMI, 2 x USB 2.0, USB Type-C, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234.9 mm - Dày 19.9 mm - Nặng 1.8 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_40.html",
+    "product_name": "Laptop Asus Gaming ROG Strix G18 G814JI i9 13980HX/32GB/1TB/8GB RTX4070/240Hz/Balo/Win11 (N6063W)",
+    "present_price": 63990000,
+    "old_price": 70990000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i9, 13980HX, 2.2GHz\nRAM:: 32 GB, DDR5 2 khe (1 khe 16 GB + 1 khe 16 GB), 4800 MHz\nỔ cứng:: 1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 18\", QHD+ (2560 x 1600), 240Hz\nCard màn hình:: Card rời, RTX 4070 8GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 399 mm - Rộng 294 mm - Dày 23.1 ~ 30.8 mm - Nặng 3 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_41.html",
+    "product_name": "Laptop Asus Gaming ROG Strix G16 G614JI i7 13650HX/16GB/1TB/8GB RTX4070/240Hz/Balo/Win11 (N4084W)",
+    "present_price": 53990000,
+    "old_price": 60990000,
+    "discount": 0.11,
+    "raw_specs": "CPU:: i7, 13650HX, 2.6GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 16 GB + 1 khe rời), 4800 MHz\nỔ cứng:: 1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 16\", QHD+ (2560 x 1600), 240Hz\nCard màn hình:: Card rời, RTX 4070 8GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 354 mm - Rộng 264 mm - Dày 22.6 ~ 30.4 mm - Nặng 2.5 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_42.html",
+    "product_name": "Laptop Asus Gaming ROG Strix SCAR 15 G533ZW i9 12900H/32GB/1TB/8GB RTX3070Ti/240Hz/Balo/Chuột/Win11 (LN134W)",
+    "present_price": 50990000,
+    "old_price": 69990000,
+    "discount": 0.27,
+    "raw_specs": "CPU:: i9, 12900H, 2.5GHz\nRAM:: 32 GB, DDR5 2 khe (1 khe 16 GB + 1 khe 16 GB), 4800 MHz\nỔ cứng:: 1 TB SSD M.2 PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", WQHD (2560 x 1440), 240Hz\nCard màn hình:: Card rời, RTX 3070Ti 8GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 354 mm - Rộng 259 mm - Dày 22.6 ~ 27.2 mm - Nặng 2.3 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_43.html",
+    "product_name": "Laptop Asus ExpertBook B9 OLED B9403CVA i7 1355U/16GB/1TB/Cáp/Túi/Win11 Pro (KM0157X)",
+    "present_price": 44990000,
+    "old_price": 49990000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 1 TB SSD NVMe PCIe Gen 4\nMàn hình:: 14\", 2.8K (2880 x 1800) - OLED 16:10, 90Hz\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 hỗ trợ display / power delivery, HDMI, 1 x USB 3.2, Jack tai nghe 3.5 mm, Micro HDMI (RJ45)\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Pro\nThiết kế:: Hợp kim Lithium-Magie\nKích thước, khối lượng:: Dài 311 mm - Rộng 215 mm - Dày 15.7 mm - Nặng 0.99 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_44.html",
+    "product_name": "Laptop Asus Zenbook S 13 OLED UX5304VA i7 1355U/32GB/1TB/Túi/Win11 (NQ126W)",
+    "present_price": 40990000,
+    "old_price": 44990000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 32 GB, LPDDR5 (Onboard), 5500 MHz\nỔ cứng:: 1 TB SSD NVMe PCIe Gen 4\nMàn hình:: 13.3\", 2.8K (2880 x 1800) - OLED 16:10\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 hỗ trợ display / power delivery, HDMI, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nắp lưng hợp kim Nhôm Magie\nKích thước, khối lượng:: Dài 296.2 mm - Rộng 216.3 mm - Dày 10.9 ~ 11.8 mm - Nặng 1 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_45.html",
+    "product_name": "Laptop Asus TUF Gaming A15 FA507XI R9 7940HS/8GB/512GB/8GB RTX4070/144Hz/Win11 (LP420W)",
+    "present_price": 39990000,
+    "old_price": 45490000,
+    "discount": 0.12,
+    "raw_specs": "CPU:: Ryzen 9, 7940HS, 4GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 4070 8GB\nCổng kết nối:: 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), 1 x USB Type-C 3.2 (hỗ trợ DisplayPort / G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 354 mm - Rộng 251 mm - Dày 22.4 ~ 24.9 mm - Nặng 2.2 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_46.html",
+    "product_name": "Laptop Asus Gaming ROG Zephyrus G14 GA402NJ R7 7735HS/16GB/512GB/6GB RTX3050/144Hz/Túi/Win11 (L4056W)",
+    "present_price": 38990000,
+    "old_price": 42990000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: Ryzen 7, 7735HS, 3.2GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB onboard + 1 khe 8 GB), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", Full HD+ (1920 x 1200) 16:10, 144Hz\nCard màn hình:: Card rời, RTX 3050 6GB\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort), 1 x USB Type-C (hỗ trợ DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 312 mm - Rộng 227 mm - Dày 19.5 ~ 20.5 mm - Nặng 1.72 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_47.html",
+    "product_name": "Laptop Asus Zenbook S 13 OLED UX5304VA i7 1355U/16GB/512GB/Túi/Win11 (NQ125W)",
+    "present_price": 34990000,
+    "old_price": 39990000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 5500 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0\nMàn hình:: 13.3\", 2.8K (2880 x 1800) - OLED 16:10\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 hỗ trợ display / power delivery, HDMI, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nắp lưng hợp kim Nhôm Magie\nKích thước, khối lượng:: Dài 296.2 mm - Rộng 216.3 mm - Dày 10.9 ~ 11.8 mm - Nặng 1 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_48.html",
+    "product_name": "Laptop Asus Gaming ROG Strix G16 G614JU i5 13450HX/8GB/512GB/6GB RTX4050/165Hz/Win11 (N3135W)",
+    "present_price": 33990000,
+    "old_price": 37990000,
+    "discount": 0.11,
+    "raw_specs": "CPU:: i5, 13450HX, 2.4GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 16\", WUXGA (1920 x 1200), 165Hz\nCard màn hình:: Card rời, RTX 4050 6GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 354 mm - Rộng 264 mm - Dày 22.6 ~ 30.4 mm - Nặng 2.5 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_49.html",
+    "product_name": "Laptop Asus Gaming TUF Dash F15 FX517ZR i7 12650H/8GB/512GB/8GB RTX3070/144Hz/Win11 (HN086W)",
+    "present_price": 31490000,
+    "old_price": 35990000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i7, 12650H, 2.30 GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 4800 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3070 8GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 354 mm - Rộng 251 mm - Dày 20.7 mm - Nặng 2 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_5.html",
+    "product_name": "Laptop Asus TUF Gaming F15 FX507ZC4 i5 12500H/16GB/1TB/4GB RTX3050/144Hz/Win11 (HN229W)",
+    "present_price": 22490000,
+    "old_price": 25990000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i5, 12500H, 2.5GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 1 TB SSD M.2 PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 4GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), 1 x USB Type-C 3.2 (hỗ trợ DisplayPort / G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 354 mm - Rộng 251 mm - Dày 22.4 ~ 24.9 mm - Nặng 2.2 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_50.html",
+    "product_name": "Laptop Asus TUF Gaming A15 FA507NV R7 7735HS/16GB/512GB/8GB RTX4060/144Hz/Win11 (LP031W)",
+    "present_price": 29990000,
+    "old_price": 34490000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: Ryzen 7, 7735HS, 3.2GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 4060 8GB\nCổng kết nối:: 1 x USB 3.2 Gen 2 Type-C (hỗ trợ DisplayPort, Power delivery, G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm, 1 x USB Type-C USB 4 (hỗ trợ DisplayPort)\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 354 mm - Rộng 251 mm - Dày 22.4 ~ 24.9 mm - Nặng 2.2 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_51.html",
+    "product_name": "Laptop Asus Zenbook 14 OLED UX3402VA i7 1360P/16GB/512GB/Cáp/Túi/Win11 (KM068W)",
+    "present_price": 28990000,
+    "old_price": 31990000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i7, 1360P, 2.2GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0\nMàn hình:: 14\", 2.8K (2880 x 1800) - OLED 16:10, 90Hz\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 hỗ trợ display / power delivery, HDMI, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nhôm\nKích thước, khối lượng:: Dài 313.6 mm - Rộng 220.6 mm - Dày 16.9 mm - Nặng 1.39 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_52.html",
+    "product_name": "Laptop Asus TUF Gaming F15 FX507ZM i7 12700H/16GB/512GB/6GB RTX3060/144Hz/Win11 (HN123W)",
+    "present_price": 27690000,
+    "old_price": 32990000,
+    "discount": 0.16,
+    "raw_specs": "CPU:: i7, 12700H, 2.30 GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 16 GB + 1 khe rời), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3060 6GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), 1 x USB Type-C 3.2 (hỗ trợ DisplayPort / G-SYNC), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 354 mm - Rộng 251 mm - Dày 24.9 mm - Nặng 2.2 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_53.html",
+    "product_name": "Laptop Asus Zenbook 14 Flip OLED UP3404VA i5 1340P/16GB/512GB/Touch/Pen/Cáp/Túi/Win11 (KN038W)",
+    "present_price": 27490000,
+    "old_price": 29990000,
+    "discount": 0.08,
+    "raw_specs": "CPU:: i5, 1340P, 1.9GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0\nMàn hình:: 14\", 2.8K (2880 x 1800) - OLED, 90Hz\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 hỗ trợ display / power delivery, HDMI, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nhôm\nKích thước, khối lượng:: Dài 311.5 mm - Rộng 223.4 mm - Dày 15.9 mm - Nặng 1.5 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_54.html",
+    "product_name": "Laptop Asus Vivobook 14X OLED S3405VA i9 13900H/16GB/512GB/Win11 (KM071W)",
+    "present_price": 23990000,
+    "old_price": 26990000,
+    "discount": 0.11,
+    "raw_specs": "CPU:: i9, 13900H, 2.6GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", 2.8K (2880 x 1800) - OLED 16:10, 90Hz\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 317.1 mm - Rộng 222.5 mm - Dày 18.9 mm - Nặng 1.4 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_55.html",
+    "product_name": "Laptop Asus Vivobook 14 A1405VA i3 1315U/8GB/512GB/Win11 (LY097W)",
+    "present_price": 12490000,
+    "old_price": 14990000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i3, 1315U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", WUXGA (1920 x 1200)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery), HDMI, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 317.1 mm - Rộng 222 mm - Dày 19.9 mm - Nặng 1.6 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_6.html",
+    "product_name": "Laptop Asus Vivobook 16 X1605VA i5 1335U/16GB/512GB/Win11 (MB360W)",
+    "present_price": 16490000,
+    "old_price": 18990000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 16\", WUXGA (1920 x 1200)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (chỉ hỗ trợ Power Delivery), HDMI, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.7 mm - Rộng 249.5 mm - Dày 19.9 mm - Nặng 1.88 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_7.html",
+    "product_name": "Laptop Asus TUF Gaming F15 FX506HE i7 11800H/16GB/512GB/4GB RTX3050Ti/144Hz/Win11 (HN378W)",
+    "present_price": 20990000,
+    "old_price": 22990000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i7, 11800H, 2.30 GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050Ti 4GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359 mm - Rộng 256 mm - Dày 22.8 ~ 24.5 mm - Nặng 2.3 kg\nThời điểm ra mắt:: 2021\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_8.html",
+    "product_name": "Laptop Asus Vivobook 15 OLED A1505VA i5 13500H/16GB/512GB/Chuột/Win11 (L1341W)",
+    "present_price": 18990000,
+    "old_price": 20990000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i5, 13500H, 2.6GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080) OLED\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (chỉ hỗ trợ Power Delivery), HDMI, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 356.8 mm - Rộng 227.6 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/asus_9.html",
+    "product_name": "Laptop Asus Vivobook 15 X1504VA i5 1335U/8GB/512GB/Win11 (NJ025W)",
+    "present_price": 15990000,
+    "old_price": 17990000,
+    "discount": 0.11,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, USB Type-C, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.7 mm - Rộng 232.5 mm - Dày 17.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_0.html",
+    "product_name": "Laptop Dell Inspiron 15 3520 i3 1215U/8GB/256GB/OfficeHS/Win11 (i3U082W11BLU)",
+    "present_price": 10990000,
+    "old_price": 13690000,
+    "discount": 0.2,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 2666 MHz\nỔ cứng:: Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB), 256 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 235.56 mm - Dày 16.96 ~ 18.99 mm - Nặng 1.9 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_1.html",
+    "product_name": "Laptop Dell Vostro 15 3520 i3 1215U/8GB/512GB/120Hz/OfficeHS/Win11 (5M2TT1)",
+    "present_price": 12290000,
+    "old_price": 14790000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 235.6 mm - Dày 19 mm - Nặng 1.67 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_10.html",
+    "product_name": "Laptop Dell Inspiron 15 3530 i7 1355U/8GB/512GB/120Hz/OfficeHS/Win11 (71011775)",
+    "present_price": 21990000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 2666 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort), HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 235.5 mm - Dày 18.9 mm - Nặng 1.66 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_11.html",
+    "product_name": "Laptop Dell Inspiron 15 3520 i7 1255U/8GB/512GB/120Hz/OfficeHS/Win11 (71003262)",
+    "present_price": 20990000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i7, 1255U, 1.7GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ khe cắm SATA 2.5 inch mở rộng (nâng cấp SSD hoặc HDD đều được)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358 mm - Rộng 235 mm - Dày 21 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_12.html",
+    "product_name": "Laptop Dell Vostro 15 3520 i5 1235U/8GB/512GB/120Hz/OfficeHS/Win11 (5M2TT2)",
+    "present_price": 16190000,
+    "old_price": 19490000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 235.56 mm - Dày 19 mm - Nặng 1.67 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_13.html",
+    "product_name": "Laptop Dell Inspiron 15 3520 i5 1235U/8GB/512GB/2GB MX550/120Hz/OfficeHS/Win11 (70296960)",
+    "present_price": 17990000,
+    "old_price": 19790000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ khe cắm SATA 2.5 inch mở rộng (nâng cấp SSD hoặc HDD đều được)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card rời, MX550 2GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ DisplayPort), HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358 mm - Rộng 235 mm - Dày 17.5 mm - Nặng 1.9 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_14.html",
+    "product_name": "Laptop Dell Inspiron 16 5620 i5 1235U/8GB/256GB/OfficeHS/Win11 (P1WKN)",
+    "present_price": 17190000,
+    "old_price": 19790000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe\nMàn hình:: 16\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 356.7 mm - Rộng 251.9 mm - Dày 17.95 mm - Nặng 1.87 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_15.html",
+    "product_name": "Laptop Dell Inspiron 16 5620 i7 1255U/8GB/512GB/OfficeHS/Win11 (N6I7110W1)",
+    "present_price": 22190000,
+    "old_price": 25190000,
+    "discount": 0.12,
+    "raw_specs": "CPU:: i7, 1255U, 1.7GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 16\", Full HD+ (1920 x 1200)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: USB Type-C (hỗ trợ Power Delivery và DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 356.7 mm - Rộng 251.9 mm - Dày 17.95 mm - Nặng 1.87 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_16.html",
+    "product_name": "Laptop Dell Inspiron 15 3530 i5 1335U/8GB/512GB/2GB MX550/120Hz/OfficeHS/Win11 (71014840)",
+    "present_price": 20990000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 8 GB, DDR4 (1 khe), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card rời, MX550 2GB\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort), HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - Nặng 1.63 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_17.html",
+    "product_name": "Laptop Dell Vostro 14 3420 i5 1235U/8GB/512GB/OfficeHS/Win11 (71003348)",
+    "present_price": 16490000,
+    "old_price": 17590000,
+    "discount": 0.06,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 2666 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 321.27 mm - Rộng 220.26 mm - Dày 18.62 ~ 23.02 mm - Nặng 1.49 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_18.html",
+    "product_name": "Laptop Dell Inspiron 14 T7430 i5 1335U/8GB/512GB/Touch/Pen/OfficeHS/Win11 (N7430I58W1)",
+    "present_price": 23990000,
+    "old_price": 24190000,
+    "discount": 0.01,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 8 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)\nMàn hình:: 14\", Full HD+ (1920 x 1200)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 (hỗ trợ Power Delivery), HDMI, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ kim loại - Nhôm\nKích thước, khối lượng:: Dài 314 mm - Rộng 226.56 mm - Dày 18.55 mm - Nặng 1.58 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_19.html",
+    "product_name": "Laptop Dell XPS 15 9530 i7 13700H/16GB/512GB/6GB RTX4050/Touch/Cáp/OfficeHS/Win11 (71015716)",
+    "present_price": 74490000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i7, 13700H, 2.4GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 4 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 4 TB)\nMàn hình:: 15.6\", 3.5K (3456 x 2160) - OLED\nCard màn hình:: Card rời, RTX 4050 6GB\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort), 2 x Thunderbolt 4 (hỗ trợ Power Delivery), Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhôm - Chiếu nghỉ tay bằng sợi carbon\nKích thước, khối lượng:: Dài 344 mm - Rộng 230 mm - Dày 18 mm - Nặng 1.92 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_2.html",
+    "product_name": "Laptop Dell Vostro 15 3520 i3 1215U/8GB/256GB/OfficeHS/Win11 (V5I3614W1)",
+    "present_price": 11290000,
+    "old_price": 13990000,
+    "discount": 0.19,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 2666 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe, Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - Nặng 1.83 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_20.html",
+    "product_name": "Laptop Dell XPS 13 Plus 9320 i5 1340P/16GB/512GB/Touch/Cáp/OfficeHS/Win11 (71013325)",
+    "present_price": 54990000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i5, 1340P, 1.9GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 6000 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 13.4\", 3.5K (3456 x 2160) - OLED\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 (hỗ trợ Power Delivery)\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ kim loại - Nhôm\nKích thước, khối lượng:: Dài 295.3 mm - Rộng 199.04 mm - Dày 15.28 mm - Nặng 1.26 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_21.html",
+    "product_name": "Laptop Dell Gaming G15 5530 i7 13650HX/16GB/512GB/8GB RTX4060/165Hz/OfficeHS/Win11 (i7H165W11GR4060)",
+    "present_price": 40990000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i7, 13650HX, 2.6GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng\nMàn hình:: 15.6\", Full HD (1920 x 1080), 165Hz\nCard màn hình:: Card rời, RTX 4060 8GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ DisplayPort), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 357.26 mm - Rộng 274.52 mm - Dày 21.28 ~ 26.15 mm - Nặng 2.81 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_22.html",
+    "product_name": "Laptop Dell Inspiron 14 5430 i7 1360P/16GB/1TB/4GB RTX2050/120Hz/OfficeHS/Win11 (71015633)",
+    "present_price": 32490000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i7, 1360P, 2.2GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 2 TB), 1 TB SSD M.2 PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)\nMàn hình:: 14\", QHD+ (2560 x 1600) 16:10, 120Hz\nCard màn hình:: Card rời, RTX 2050 4GB\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ display/power delivery), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ hợp kim Nhôm\nKích thước, khối lượng:: Dài 314 mm - Rộng 226.6 mm - Dày 15.74 ~ 17.67 mm - Nặng 1.531 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_23.html",
+    "product_name": "Laptop Dell Inspiron 14 5430 i5 1340P/16GB/512GB/4GB RTX2050/120Hz/OfficeHS/Win11 (N5430-i5P165W11SL2050)",
+    "present_price": 29790000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i5, 1340P, 1.9GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB (2280) / 1 TB (2230))\nMàn hình:: 14\", QHD+ (2560 x 1600) 16:10, 120Hz\nCard màn hình:: Card rời, RTX 2050 4GB\nCổng kết nối:: HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm, 1 x USB Type-C Thunderbolt 4.0 (hỗ trợ DisplayPort và Power Delivery)\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 314 mm - Rộng 226.6 mm - Dày 16.49 ~ 18.52 mm - Nặng 1.78 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_24.html",
+    "product_name": "Laptop Dell Inspiron 14 7430 2-in-1 i7 1355U/16GB/512GB/Touch/Pen/OfficeHS/Win11 (i7U165W11SLU)",
+    "present_price": 29490000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB (2280) / 1 TB (2230))\nMàn hình:: 14\", Full HD+ (1920 x 1200)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 (hỗ trợ Power Delivery), HDMI, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 314 mm - Rộng 226.56 mm - Dày 15.54 ~ 17.47 mm - Nặng 1.62 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_25.html",
+    "product_name": "Laptop Dell Inspiron 14 5430 i7 1360P/16GB/1TB/OfficeHS/Win11 (20DY31)",
+    "present_price": 27090000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i7, 1360P, 2.2GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 1 TB SSD\nMàn hình:: 14\", Full HD+ (1920 x 1200) 16:10\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ display/power delivery), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ hợp kim Nhôm\nKích thước, khối lượng:: Dài 314 mm - Rộng 226.6 mm - Dày 17.67 mm - Nặng 1.531 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_26.html",
+    "product_name": "Laptop Dell Vostro 14 3430 i7 1355U/16GB/512GB/2GB MX550/OfficeHS/Win11 (V3430-i7U165W11GRD2)",
+    "present_price": 26290000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card rời, MX550 2GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB Power Delivery, DisplayPort 1.4), HDMI, LAN (RJ45), 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 323.67 mm - Rộng 220.26 mm - Dày 19.48 mm - Nặng 1.46 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_27.html",
+    "product_name": "Laptop Dell Vostro 16 5630 i5 1335U/16GB/512GB/OfficeHS/Win11 (V5630-i5U165W11GRU)",
+    "present_price": 25690000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB (2280) / 1 TB (2230))\nMàn hình:: 16\", Full HD+ (1920 x 1200)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ display/power delivery), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 356.78 mm - Rộng 251.9 mm - Dày 15.67 ~ 17.95 mm - Nặng 1.9 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_28.html",
+    "product_name": "Laptop Dell Vostro 16 5630 i5 1340P/8GB/512GB/OfficeHS/Win11 (i5P085W11GRU)",
+    "present_price": 23190000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i5, 1340P, 1.9GHz\nRAM:: 8 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB (2280) / 1 TB (2230))\nMàn hình:: 16\", Full HD+ (1920 x 1200)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ display/power delivery), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 356.78 mm - Rộng 251.9 mm - Dày 15.67 ~ 17.95 mm - Nặng 1.9 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_29.html",
+    "product_name": "Laptop Dell Vostro 14 3430 i5 1355U/8GB/512GB/2GB MX550/OfficeHS/Win11 (60YGM)",
+    "present_price": 19990000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card rời, MX550 2GB\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort), HDMI, LAN (RJ45), 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 323.67 mm - Rộng 220.26 mm - Dày 19.5 mm - Nặng 1.49 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_3.html",
+    "product_name": "Laptop Dell Inspiron 15 3520 i3 1215U/8GB/512GB/120Hz/OfficeHS/Win11 (71003264)",
+    "present_price": 12190000,
+    "old_price": 14490000,
+    "discount": 0.16,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 2666 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ khe cắm HDD SATA\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - Nặng 1.9 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_30.html",
+    "product_name": "Laptop Dell Vostro 15 3530 i5 1335U/8GB/512GB/120Hz/OfficeHS/Win11 (80GG9)",
+    "present_price": 18190000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 235.6 mm - Dày 19 mm - Nặng 1.63 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_4.html",
+    "product_name": "Laptop Dell Inspiron 15 3520 i5 1235U/8GB/512GB/120Hz/OfficeHS/Win11 (i5U085W11BLU)",
+    "present_price": 16490000,
+    "old_price": 18990000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 2666 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 235.56 mm - Dày 16.96 ~ 18.99 mm - Nặng 1.9 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_5.html",
+    "product_name": "Laptop Dell Inspiron 15 3530 i7 1355U/16GB/512GB/2GB MX550/OfficeHS/Win11 (N3530I716W1)",
+    "present_price": 24990000,
+    "old_price": 25290000,
+    "discount": 0.01,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card rời, MX550 2GB\nCổng kết nối:: HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm, 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort 1.4)\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 234.9 mm - Dày 17.5 mm - Nặng 1.65 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_6.html",
+    "product_name": "Laptop Dell Inspiron 15 3520 i5 1235U/8GB/256GB/120Hz/OfficeHS/Win11 (N5I5122W1)",
+    "present_price": 15990000,
+    "old_price": 18590000,
+    "discount": 0.14,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 2666 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe, Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 235.56 mm - Dày 18.9 mm - Nặng 1.9 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_7.html",
+    "product_name": "Laptop Dell Inspiron 15 3530 i5 1335U/16GB/512GB/120Hz/OfficeHS/Win11 (N5I5791W1)",
+    "present_price": 19990000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 2666 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB), Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, USB Type-C, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm - Nặng 1.66 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_8.html",
+    "product_name": "Laptop Dell Inspiron 15 3530 i5 1335U/8GB/512GB/120Hz/OfficeHS/Win11 (N3530-i5U085W11BLU)",
+    "present_price": 18490000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 2666 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 120Hz\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, USB Type-C, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 235.56 mm - Dày 16.96 ~ 18.99 mm - Nặng 1.66 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/dell_9.html",
+    "product_name": "Laptop Dell Vostro 14 3430 i5 1335U/8GB/512GB/OfficeHS/Win11 (71011900)",
+    "present_price": 18490000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 2666 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 323.67 mm - Rộng 219.76 mm - Dày 18.48 mm - Nặng 1.44 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_0.html",
+    "product_name": "Laptop HP 15s fq5229TU i3 1215U/8GB/512GB/Win11 (8U237PA)",
+    "present_price": 10990000,
+    "old_price": 13690000,
+    "discount": 0.2,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu), HDMI, Jack tai nghe 3.5 mm, 2 x USB Type-A\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 242 mm - Dày 17.9 mm - Nặng 1.69 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_1.html",
+    "product_name": "Laptop HP 15s fq5162TU i5 1235U/8GB/512GB/Win11 (7C134PA)",
+    "present_price": 15590000,
+    "old_price": 18890000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 242 mm - Dày 17.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_10.html",
+    "product_name": "Laptop HP Pavilion X360 14 ek1049TU i5 1335U/16GB/512GB/Touch/Pen/Win11 (80R27PA)",
+    "present_price": 21990000,
+    "old_price": 24290000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 16 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nắp lưng bằng nhựa\nKích thước, khối lượng:: Dài 322 mm - Rộng 210 mm - Dày 19.9 mm - Nặng 1.53 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_11.html",
+    "product_name": "Laptop HP 15s fq2716TU i3 1115G4/8GB/512GB/Win11 (7C0X3PA)",
+    "present_price": 10290000,
+    "old_price": 13690000,
+    "discount": 0.25,
+    "raw_specs": "CPU:: i3, 1115G4, 3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 2x SuperSpeed USB A, Jack tai nghe 3.5 mm, 1x SuperSpeed USB Type-C\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 242 mm - Dày 17.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_12.html",
+    "product_name": "Laptop HP Pavilion 14 dv2074TU i5 1235U/8GB/512GB/Win11 (7C0P3PA)",
+    "present_price": 16390000,
+    "old_price": 19690000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x SuperSpeed USB Type-C (hỗ trợ USB Power Delivery, DisplayPort 1.4), HDMI, 2x SuperSpeed USB A, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 325 mm - Rộng 216.6 mm - Dày 17 mm - Nặng 1.41 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_13.html",
+    "product_name": "Laptop HP Pavilion 15 eg2081TU i5 1240P/16GB/512GB/Win11 (7C0Q4PA)",
+    "present_price": 17690000,
+    "old_price": 20990000,
+    "discount": 0.16,
+    "raw_specs": "CPU:: i5, 1240P, 1.7GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - Nặng 1.72 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_14.html",
+    "product_name": "Laptop HP 240 G8 i3 1115G4/8GB/256GB/Win11 (6L1A1PA)",
+    "present_price": 9290000,
+    "old_price": 12990000,
+    "discount": 0.28,
+    "raw_specs": "CPU:: i3, 1115G4, 3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 2 x USB 3.1, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 324 mm - Rộng 225.9 mm - Dày 19.9 mm - Nặng 1.47 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_15.html",
+    "product_name": "Laptop HP Envy X360 13 bf0090TU i7 1250U/16GB/512GB/Touch/Pen/Win11 (76B13PA)",
+    "present_price": 27090000,
+    "old_price": 32990000,
+    "discount": 0.18,
+    "raw_specs": "CPU:: i7, 1250U, 1.1GHz\nRAM:: 16 GB, LPDDR4 (Onboard), 4267 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 13.3\", 2.8K (2880 x 1800) - OLED\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x USB 3.2, 2 x Thunderbolt 4 with USB-C (Power Delivery and DisplayPort), Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 298.3 mm - Rộng 214.9 mm - Dày 16.1 mm - Nặng 1.34 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_16.html",
+    "product_name": "Laptop HP Gaming VICTUS 15 fa0155TX i5 12450H/16GB/512GB/4GB RTX3050/144Hz/Win11 (81P00PA)",
+    "present_price": 20290000,
+    "old_price": 27990000,
+    "discount": 0.28,
+    "raw_specs": "CPU:: i5, 12450H, 2GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 4GB\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ DisplayPort), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 357.9 mm - Rộng 255 mm - Dày 23.5 mm - Nặng 2.31 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_17.html",
+    "product_name": "Laptop HP Gaming VICTUS 16 e1106AX R5 6600H/8GB/512GB/4GB RTX3050Ti/144Hz/Win11 (7C0T1PA)",
+    "present_price": 20690000,
+    "old_price": 26490000,
+    "discount": 0.22,
+    "raw_specs": "CPU:: Ryzen 5, 6600H, 3.3GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng\nMàn hình:: 16.1\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050Ti 4GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB Power Delivery, DisplayPort 1.4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 370 mm - Rộng 260 mm - Dày 23.5 mm - Nặng 2.4 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_18.html",
+    "product_name": "Laptop HP Pavilion 15 eg2086TU i3 1215U/8GB/256GB/Win11 (7C0Q8PA)",
+    "present_price": 12590000,
+    "old_price": 15290000,
+    "discount": 0.18,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - Nặng 1.74 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_19.html",
+    "product_name": "Laptop HP Envy X360 13 bf0112TU i5 1230U/16GB/512GB/Touch/Pen/Win11 (7C0N9PA)",
+    "present_price": 23990000,
+    "old_price": 29590000,
+    "discount": 0.19,
+    "raw_specs": "CPU:: i5, 1230U, 1.00 GHz\nRAM:: 16 GB, LPDDR4X (Onboard), 4266 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 13.3\", 2.8K (2880 x 1800) - OLED\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 with USB-C (USB Power Delivery, DisplayPort 1.4), 2x SuperSpeed USB A, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 298.3 mm - Rộng 214.9 mm - Dày 16.1 mm - Nặng 1.34 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_2.html",
+    "product_name": "Laptop HP 240 G9 i3 1215U/8GB/256GB/Win11 (6L1X7PA)",
+    "present_price": 9690000,
+    "old_price": 12990000,
+    "discount": 0.25,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 324 mm - Rộng 225.9 mm - Dày 19.9 mm - Nặng 1.41 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_20.html",
+    "product_name": "Laptop HP 245 G9 R5 5625U/8GB/512GB/Win11 (6L1N9PA)",
+    "present_price": 11590000,
+    "old_price": 13990000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: Ryzen 5, 5625U, 2.30 GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ thêm 1 khe cắm HDD SATA (nâng cấp tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Radeon\nCổng kết nối:: HDMI, LAN (RJ45), 2x SuperSpeed USB A, Jack tai nghe 3.5 mm, 1x SuperSpeed USB Type-C\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 324 mm - Rộng 225.9 mm - Dày 19.9 mm - Nặng 1.47 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_21.html",
+    "product_name": "Laptop HP 240 G10 i5 1335U/16GB/512GB/Win11 (8F136PA)",
+    "present_price": 17690000,
+    "old_price": 19590000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 16 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 324 mm - Rộng 215 mm - Dày 17.9 mm - Nặng 1.39 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_22.html",
+    "product_name": "Laptop HP 240 G10 i5 1335U/8GB/512GB/Win11 (8F134PA)",
+    "present_price": 16890000,
+    "old_price": 18790000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 324 mm - Rộng 215 mm - Dày 17.9 mm - Nặng 1.39 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_23.html",
+    "product_name": "Laptop HP EliteBook 630 G9 i7 1255U/16GB/512GB/Win11 (6M146PA)",
+    "present_price": 23890000,
+    "old_price": 27790000,
+    "discount": 0.14,
+    "raw_specs": "CPU:: i7, 1255U, 1.7GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 16 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 13.3\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: Thunderbolt 4, HDMI, LAN (RJ45), 2x SuperSpeed USB A, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 306.9 mm - Rộng 208.4 mm - Dày 15.9 mm - Nặng 1.28 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_24.html",
+    "product_name": "Laptop HP Elitebook 630 G9 i5 1235U/16GB/512GB/Win11 (7K9H3PA)",
+    "present_price": 19990000,
+    "old_price": 23390000,
+    "discount": 0.15,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 16 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 13.3\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ display/power delivery), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 306.9 mm - Rộng 208.4 mm - Dày 15.9 mm - Nặng 1.28 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_25.html",
+    "product_name": "Laptop HP Elitebook 630 G10 i7 1355U/16GB/512GB/Win11 (873F2PA)",
+    "present_price": 25190000,
+    "old_price": 27790000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 16 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 13.3\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ display/power delivery), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 306.9 mm - Rộng 208.4 mm - Dày 15.9 mm - Nặng 1.22 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_26.html",
+    "product_name": "Laptop HP Gaming VICTUS 16 r0130TX i5 13500H/16GB/512GB/144Hz/6GB RTX3050/Win11 (8C5N5PA)",
+    "present_price": 27090000,
+    "old_price": 29690000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i5, 13500H, 2.6GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 5200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 16.1\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 6GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB Power Delivery, DisplayPort 1.4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 369 mm - Rộng 259.4 mm - Dày 23.9 mm - Nặng 2.34 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_27.html",
+    "product_name": "Laptop HP Envy 16 h0205TX i9 12900H/32GB/512GB/6GB RTX3060/Touch/Win11 (7C0T2PA)",
+    "present_price": 51890000,
+    "old_price": 65390000,
+    "discount": 0.21,
+    "raw_specs": "CPU:: i9, 12900H, 2.5GHz\nRAM:: 32 GB, DDR5 2 khe (1 khe 16 GB + 1 khe 16 GB), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng\nMàn hình:: 16\", 4K/UHD+ (3840 x 2400) OLED\nCard màn hình:: Card rời, RTX 3060 6GB\nCổng kết nối:: 2 x Thunderbolt 4 with USB-C (USB Power Delivery, DisplayPort 1.4), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nhôm\nKích thước, khối lượng:: Dài 357.4 mm - Rộng 251.8 mm - Dày 19.9 mm - Nặng 2.32 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_28.html",
+    "product_name": "Laptop HP Omen 16 n0085AX R9 6900HX/32GB/1TB SSD/8GB RTX3070Ti/165Hz/Win11 (7C144PA)",
+    "present_price": 51090000,
+    "old_price": 62890000,
+    "discount": 0.19,
+    "raw_specs": "CPU:: Ryzen 9, 6900HX, 3.3GHz\nRAM:: 32 GB, DDR5 2 khe (1 khe 16 GB + 1 khe 16 GB), 4800 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng, 1 TB SSD\nMàn hình:: 16.1\", QHD (2560 x 1440), 165Hz\nCard màn hình:: Card rời, RTX 3070Ti 8GB\nCổng kết nối:: 2 x USB Type-C (hỗ trợ USB Power Delivery, DisplayPort 1.4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 369 mm - Rộng 248 mm - Dày 23 mm - Nặng 2.35 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_29.html",
+    "product_name": "Laptop HP Elitebook Dragonfly G3 i7 1255U/16GB/1TB SSD/Touch/Win11 Pro (6Z980PA)",
+    "present_price": 41390000,
+    "old_price": 52590000,
+    "discount": 0.21,
+    "raw_specs": "CPU:: i7, 1255U, 1.7GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 1 TB SSD\nMàn hình:: 13.5\", WUXGA+ (1920 x 1280)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x SuperSpeed USB Type-A, 2 x Thunderbolt 4 (hỗ trợ USB Power Delivery, DisplayPort 1.4), HDMI, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Pro\nThiết kế:: Vỏ kim loại - Nhôm\nKích thước, khối lượng:: Dài 297.4 mm - Rộng 220.4 mm - Dày 16.4 mm - Nặng 0.99 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_3.html",
+    "product_name": "Laptop HP Pavilion 15 eg2082TU i5 1240P/8GB/512GB/Win11 (7C0Q5PA)",
+    "present_price": 16090000,
+    "old_price": 19790000,
+    "discount": 0.19,
+    "raw_specs": "CPU:: i5, 1240P, 1.7GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - Nặng 1.72 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_30.html",
+    "product_name": "Laptop HP Omen 16 n0087AX R7 6800H/16GB/1TB SSD/6GB RTX3060/165Hz/Win11 (7C0T7PA)",
+    "present_price": 40190000,
+    "old_price": 50890000,
+    "discount": 0.21,
+    "raw_specs": "CPU:: Ryzen 7, 6800H, 3.2GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 4800 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng, 1 TB SSD\nMàn hình:: 16.1\", QHD (2560 x 1440), 165Hz\nCard màn hình:: Card rời, RTX 3060 6GB\nCổng kết nối:: 2 x USB Type-C (hỗ trợ USB Power Delivery, DisplayPort 1.4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 369 mm - Rộng 248 mm - Dày 23 mm - Nặng 2.35 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_31.html",
+    "product_name": "Laptop HP Elitebook X360 1040 G9 i7 1255U/16GB/512GB/Touch/Pen/Win11 Pro (6Z982PA)",
+    "present_price": 38190000,
+    "old_price": 49990000,
+    "discount": 0.24,
+    "raw_specs": "CPU:: i7, 1255U, 1.7GHz\nRAM:: 16 GB, DDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", WUXGA (1920 x 1200)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 with USB-C (USB Power Delivery, DisplayPort 1.4), HDMI, 2x SuperSpeed USB A, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Pro\nThiết kế:: Vỏ kim loại - Nhôm\nKích thước, khối lượng:: Dài 315.6 mm - Rộng 225.6 mm - Dày 19.2 mm - Nặng 1.35 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_32.html",
+    "product_name": "Laptop HP Gaming VICTUS 16 s0077AX R7 7840HS/16GB/512GB/144Hz/6GB RTX3050/Win11 (8C5N6PA)",
+    "present_price": 26890000,
+    "old_price": 31690000,
+    "discount": 0.15,
+    "raw_specs": "CPU:: Ryzen 7, 7840HS, 3.8GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 5600 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 16.1\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 6GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB Power Delivery, DisplayPort 1.4), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 369 mm - Rộng 259.4 mm - Dày 23.9 mm - Nặng 2.34 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_33.html",
+    "product_name": "Laptop HP Pavilion X360 14 ek1047TU i7 1355U/16GB/512GB/Touch/Pen/Win11 (80R25PA)",
+    "present_price": 24490000,
+    "old_price": 27590000,
+    "discount": 0.11,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nắp lưng bằng nhựa\nKích thước, khối lượng:: Dài 322 mm - Rộng 210 mm - Dày 19.9 mm - Nặng 1.53 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_34.html",
+    "product_name": "Laptop HP Probook 450 G10 i7 1355U/16GB/512GB/Win11 (873D3PA)",
+    "present_price": 24490000,
+    "old_price": 26990000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 16 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), Jack tai nghe 3.5 mm, 2 x USB Type-C (hỗ trợ USB Power Delivery, DisplayPort 2.1), 2 x USB Type-A\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 359.4 mm - Rộng 233.9 mm - Dày 19.9 mm - Nặng 1.79 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_35.html",
+    "product_name": "Laptop HP Pavilion 15 eg3035TX i7 1355U/16GB/512GB/2GB MX550/Win11 (8U6L7PA)",
+    "present_price": 24090000,
+    "old_price": 26590000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card rời, MX550 2GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nắp lưng bằng nhựa\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - Nặng 1.74 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_36.html",
+    "product_name": "Laptop HP Pavilion X360 14 ek0132TU i7 1255U/16GB/512GB/Touch/Pen/Win11 (7C0W4PA)",
+    "present_price": 23490000,
+    "old_price": 26990000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i7, 1255U, 1.7GHz\nRAM:: 16 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 322 mm - Rộng 210 mm - Dày 19.9 mm - Nặng 1.51 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_37.html",
+    "product_name": "Laptop HP Pavilion 15 eg3091TU i7 1355U/16GB/512GB/Win11 (8C5L2PA)",
+    "present_price": 22690000,
+    "old_price": 25290000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB Power Delivery, DisplayPort 1.4), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nắp lưng bằng nhựa\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 18 mm - Nặng 1.69 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_38.html",
+    "product_name": "Laptop HP Pavilion 15 eg2088TU i7 1260P/16GB/512GB/Win11 (7C0R0PA)",
+    "present_price": 22090000,
+    "old_price": 25290000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i7, 1260P, 2.1GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - Nặng 1.74 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_39.html",
+    "product_name": "Laptop HP Pavilion 14 dv2071TU i7 1255U/16GB/512GB/Win11 (7C0W0PA)",
+    "present_price": 21490000,
+    "old_price": 25190000,
+    "discount": 0.15,
+    "raw_specs": "CPU:: i7, 1255U, 1.7GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB Power Delivery, DisplayPort 1.4), HDMI, Jack tai nghe 3.5 mm, 2 x USB Type-A\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 325 mm - Rộng 216.6 mm - Dày 17 mm - Nặng 1.41 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_4.html",
+    "product_name": "Laptop HP 14 ep0126TU i3 N305/8GB/256GB/Win11 (8U233PA)",
+    "present_price": 9490000,
+    "old_price": 11990000,
+    "discount": 0.21,
+    "raw_specs": "CPU:: i3 chuỗi N, N305, 1.8GHz\nRAM:: 8 GB, DDR4 (1 khe), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 512 GB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu), HDMI, Jack tai nghe 3.5 mm, 2 x USB Type-A\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 323.7 mm - Rộng 215 mm - Dày 17.9 mm - Nặng 1.41 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_40.html",
+    "product_name": "Laptop HP Pavilion X360 14 ek1048TU i5 1335U/8GB/512GB/Touch/Pen/Win11 (80R26PA)",
+    "present_price": 20590000,
+    "old_price": 22890000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 8 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nắp lưng bằng nhựa\nKích thước, khối lượng:: Dài 322 mm - Rộng 210 mm - Dày 19.9 mm - Nặng 1.53 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_41.html",
+    "product_name": "Laptop HP Pavilion 15 eg2034TX i7 1255U/8GB/512GB/2GB MX550/Win11 (6K780PA)",
+    "present_price": 20390000,
+    "old_price": 24590000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i7, 1255U, 1.7GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card rời, MX550 2GB\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - Nặng 1.74 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_42.html",
+    "product_name": "Laptop HP Probook 450 G10 i5 1335U/16GB/512GB/Win11 (873D1PA)",
+    "present_price": 20290000,
+    "old_price": 22590000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 16 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), Jack tai nghe 3.5 mm, 2 x USB Type-C (hỗ trợ USB Power Delivery, DisplayPort 2.1), 2 x USB Type-A\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 359.4 mm - Rộng 233.9 mm - Dày 19.9 mm - Nặng 1.79 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_43.html",
+    "product_name": "Laptop HP Pavilion 15 eg3033TX i5 1335U/16GB/512GB/2GB MX550/Win11 (8U6L6PA)",
+    "present_price": 20290000,
+    "old_price": 22290000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card rời, MX550 2GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nắp lưng bằng nhựa\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - Nặng 1.74 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_44.html",
+    "product_name": "Laptop HP 240 G10 i7 1355U/16GB/512GB/Win11 (8F140PA)",
+    "present_price": 19690000,
+    "old_price": 21990000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 16 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 324 mm - Rộng 215 mm - Dày 17.9 mm - Nặng 1.39 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_45.html",
+    "product_name": "Laptop HP Pavilion 15 eg3093TU i5 1335U/16GB/512GB/Win11 (8C5L4PA)",
+    "present_price": 18790000,
+    "old_price": 21290000,
+    "discount": 0.12,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nắp lưng bằng nhựa\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 18 mm - Nặng 1.69 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_46.html",
+    "product_name": "Laptop HP Elitebook 630 G9 i5 1235U/8GB/512GB/Win11 (6M143PA)",
+    "present_price": 18890000,
+    "old_price": 22190000,
+    "discount": 0.15,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 13.3\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: Thunderbolt 4, HDMI, LAN (RJ45), 2x SuperSpeed USB A, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 306.9 mm - Rộng 208.4 mm - Dày 15.9 mm - Nặng 1.28 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_47.html",
+    "product_name": "Laptop HP Probook 450 G9 i5 1235U/8GB/512GB/Win11 (6M0Y9PA)",
+    "present_price": 18090000,
+    "old_price": 21290000,
+    "discount": 0.15,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 3x SuperSpeed USB A, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 359.4 mm - Rộng 233.9 mm - Dày 19.9 mm - Nặng 1.74 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_48.html",
+    "product_name": "Laptop HP Pavilion 15 eg3095TU i5 1335U/8GB/512GB/Win11 (8C5L6PA)",
+    "present_price": 17890000,
+    "old_price": 19990000,
+    "discount": 0.11,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nắp lưng bằng nhựa\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - Nặng 1.74 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_49.html",
+    "product_name": "Laptop HP Pavilion 15 eg2062TX i5 1235U/8GB/512GB/2GB MX550/Win11 (7C0W7PA)",
+    "present_price": 17390000,
+    "old_price": 20590000,
+    "discount": 0.16,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card rời, MX550 2GB\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - Nặng 1.74 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_5.html",
+    "product_name": "Laptop HP 240 G9 i5 1235U/8GB/512GB/Win11 (6L1Y2PA)",
+    "present_price": 15390000,
+    "old_price": 18590000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 2 x USB 3.1, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 324 mm - Rộng 225.9 mm - Dày 19.9 mm - Nặng 1.47 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_50.html",
+    "product_name": "Laptop HP Pavilion 15 eg3094TU i5 1335U/8GB/512GB/Win11 (8C5L5PA)",
+    "present_price": 17390000,
+    "old_price": 19990000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nắp lưng bằng nhựa\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 18 mm - Nặng 1.69 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_51.html",
+    "product_name": "Laptop HP Pavilion 15 eg2035TX i5 1235U/8GB/512GB/2GB MX550/Win11 (6K781PA)",
+    "present_price": 17190000,
+    "old_price": 20590000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card rời, MX550 2GB\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - Nặng 1.74 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_52.html",
+    "product_name": "Laptop HP Pavilion 15 eg2036TX i5 1235U/8GB/512GB/2GB MX550/Win11 (6K782PA)",
+    "present_price": 17190000,
+    "old_price": 20590000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card rời, MX550 2GB\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - Nặng 1.74 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_53.html",
+    "product_name": "Laptop HP Pavilion 15 eg2085TU i5 1240P/8GB/256GB/Win11 (7C0Q7PA)",
+    "present_price": 15790000,
+    "old_price": 18790000,
+    "discount": 0.16,
+    "raw_specs": "CPU:: i5, 1240P, 1.7GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - Nặng 1.72 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_54.html",
+    "product_name": "Laptop HP Pavilion X360 14 ek0130TU i3 1215U/8GB/256GB/Touch/Win11 (7C0P5PA)",
+    "present_price": 14590000,
+    "old_price": 16590000,
+    "discount": 0.12,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB Power Delivery, DisplayPort 1.4), HDMI, Jack tai nghe 3.5 mm, 2 x USB Type-A\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 322 mm - Rộng 210 mm - Dày 19.9 mm - Nặng 1.53 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_55.html",
+    "product_name": "Laptop HP Pavilion X360 14 ek0131TU i3 1215U/8GB/256GB/Touch/Win11 (7C0P6PA)",
+    "present_price": 13590000,
+    "old_price": 16590000,
+    "discount": 0.18,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, USB Type-C, 2x SuperSpeed USB A, Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 322 mm - Rộng 210 mm - Dày 19.9 mm - Nặng 1.517 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_56.html",
+    "product_name": "Laptop HP Pavilion 15 eg3098TU i3 1315U/8GB/256GB/Win11 (8C5L9PA)",
+    "present_price": 13590000,
+    "old_price": 15290000,
+    "discount": 0.11,
+    "raw_specs": "CPU:: i3, 1315U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB Power Delivery, DisplayPort 1.4), HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nắp lưng bằng nhựa\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 18 mm - Nặng 1.68 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_57.html",
+    "product_name": "Laptop HP Pavilion 15 eg2062TU i3 1215U/8GB/256GB/Win11 (6K790PA)",
+    "present_price": 12390000,
+    "old_price": 14990000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 234 mm - Dày 17.9 mm - Nặng 1.74 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_6.html",
+    "product_name": "Laptop HP 15s fq5147TU i7 1255U/8GB/512GB/Win11 (7C133PA)",
+    "present_price": 17590000,
+    "old_price": 20890000,
+    "discount": 0.16,
+    "raw_specs": "CPU:: i7, 1255U, 1.7GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 358.5 mm - Rộng 242 mm - Dày 17.9 mm - Nặng 1.69 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_7.html",
+    "product_name": "Laptop HP Gaming VICTUS 15 fa1139TX i5 12450H/16GB/512GB/4GB RTX2050/144Hz/Win11 (8Y6W3PA)",
+    "present_price": 18990000,
+    "old_price": 24590000,
+    "discount": 0.23,
+    "raw_specs": "CPU:: i5, 12450H, 2GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 2050 4GB\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ DisplayPort), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 357.9 mm - Rộng 255 mm - Dày 23.5 mm - Nặng 2.29 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_8.html",
+    "product_name": "Laptop HP 245 G10 R5 7520U/8GB/512GB/Win11 (8F155PA)",
+    "present_price": 11790000,
+    "old_price": 14190000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: Ryzen 5, 7520U, 2.8GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Radeon\nCổng kết nối:: HDMI, USB Type-C, 2 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 324 mm - Rộng 215 mm - Dày 17.9 mm - Nặng 1.36 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/hp_9.html",
+    "product_name": "Laptop HP 240 G9 i5 1235U/8GB/256GB/Win11 (6L1Y1PA)",
+    "present_price": 14390000,
+    "old_price": 17590000,
+    "discount": 0.18,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 2x SuperSpeed USB A, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 324 mm - Rộng 225.9 mm - Dày 19.9 mm - Nặng 1.47 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_0.html",
+    "product_name": "Laptop Lenovo IdeaPad 1 15AMN7 R5 7520U/8GB/256GB/Win11 (82VG0061VN)",
+    "present_price": 9490000,
+    "old_price": 12690000,
+    "discount": 0.25,
+    "raw_specs": "CPU:: Ryzen 5, 7520U, 2.8GHz\nRAM:: 8 GB, LPDDR5 (Onboard), 5500 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, AMD Radeon 610M\nCổng kết nối:: 1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu), HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 236 mm - Dày 17.9 mm - Nặng 1.58 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_1.html",
+    "product_name": "Laptop Lenovo Ideapad 3 15IAU7 i3 1215U/8GB/256GB/Win11 (82RK005LVN)",
+    "present_price": 8990000,
+    "old_price": 13890000,
+    "discount": 0.35,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm, USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.2)\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.2 mm - Rộng 236.5 mm - Dày 19.9 mm - Nặng 1.63 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_10.html",
+    "product_name": "Laptop Lenovo Ideapad Slim 3 15IAH8 i5 12450H/16GB/512GB/Win11 (83ER000EVN)",
+    "present_price": 14490000,
+    "old_price": 15490000,
+    "discount": 0.06,
+    "raw_specs": "CPU:: i5, 12450H, 2GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm, 1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.3 mm - Rộng 235 mm - Dày 17.9 mm - Nặng 1.62 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_11.html",
+    "product_name": "Laptop Lenovo Ideapad 3 15ITL6 i5 1155G7/8GB/512GB/Win11 (82H803RRVN)",
+    "present_price": 11690000,
+    "old_price": 14490000,
+    "discount": 0.19,
+    "raw_specs": "CPU:: i5, 1155G7, 2.5GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu), HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.2 mm - Rộng 236.5 mm - Dày 19.9 mm - Nặng 1.65 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_12.html",
+    "product_name": "Laptop Lenovo Ideapad 3 15IAU7 i7 1255U/16GB/1TB/Win11 (82RK00X0VN)",
+    "present_price": 17890000,
+    "old_price": 18990000,
+    "discount": 0.06,
+    "raw_specs": "CPU:: i7, 1255U, 1.7GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 1 TB SSD NVMe PCIe Gen 4\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm, 1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.2 mm - Rộng 236.5 mm - Dày 19.9 mm - Nặng 1.63 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_13.html",
+    "product_name": "Laptop Lenovo Ideapad Slim 3 15IAH8 i5 12450H/16GB/1TB/Win11 (83ER000FVN)",
+    "present_price": 15490000,
+    "old_price": 16490000,
+    "discount": 0.06,
+    "raw_specs": "CPU:: i5, 12450H, 2GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 1 TB SSD NVMe PCIe Gen 4\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm, 1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.3 mm - Rộng 235 mm - Dày 17.9 mm - Nặng 1.62 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_14.html",
+    "product_name": "Laptop Lenovo Ideapad 5 14IAL7 i5 1235U/8GB/512GB/Win11 (82SD0060VN)",
+    "present_price": 13990000,
+    "old_price": 18990000,
+    "discount": 0.26,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, 2 x USB Type-C, 1 x USB 3.2 (Always on), 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nhôm\nKích thước, khối lượng:: Dài 321.69 mm - Rộng 211.84 mm - Dày 16.9 mm - Nặng 1.44 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_15.html",
+    "product_name": "Laptop Lenovo Ideapad 3 15ITL6 i3 1115G4/8GB/256GB/Win11 (82H803SGVN)",
+    "present_price": 7990000,
+    "old_price": 10490000,
+    "discount": 0.24,
+    "raw_specs": "CPU:: i3, 1115G4, 3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu), HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.2 mm - Rộng 236.5 mm - Dày 19.9 mm - Nặng 1.65 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_16.html",
+    "product_name": "Laptop Lenovo LOQ Gaming 15IRH8 i5 13420H/16GB/512GB/6GB RTX4050/144Hz/Win11 (82XV00Q4VN)",
+    "present_price": 26990000,
+    "old_price": 28990000,
+    "discount": 0.07,
+    "raw_specs": "CPU:: i5, 13420H, 2.1GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 5200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 4050 6GB\nCổng kết nối:: HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm, 1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.6 mm - Rộng 264.8 mm - Dày 22.1 ~ 25.2 mm - Nặng 2.4 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_17.html",
+    "product_name": "Laptop Lenovo LOQ Gaming 15IRH8 i7 13620H/16GB/512GB/6GB RTX4050/144Hz/Win11 (82XV00QXVN)",
+    "present_price": 29990000,
+    "old_price": 31990000,
+    "discount": 0.06,
+    "raw_specs": "CPU:: i7, 13620H, 2.4GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 5200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 4050 6GB\nCổng kết nối:: HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm, 1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.6 mm - Rộng 264.8 mm - Dày 22.1 ~ 25.2 mm - Nặng 2.4 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_18.html",
+    "product_name": "Laptop Lenovo Ideapad 3 15IAU7 i5 1235U/8GB/512GB/Win11 (82RK001PVN)",
+    "present_price": 12990000,
+    "old_price": 17990000,
+    "discount": 0.28,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm, USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.2)\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.2 mm - Rộng 236.5 mm - Dày 19.9 mm - Nặng 1.63 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_19.html",
+    "product_name": "Laptop Lenovo Yoga 7 14IRL8 i7 1360P/16GB/512GB/Touch/Pen/OfficeHS/Win11 (82YL006BVN)",
+    "present_price": 26490000,
+    "old_price": 28990000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i7, 1360P, 2.2GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 5200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", WUXGA (1920 x 1200) - OLED\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 (hỗ trợ truyền dữ liệu, Power Delivery 3.0 and DisplayPort 1.4), HDMI, 1 x USB 3.2 (Always on), Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 317.87 mm - Rộng 222.5 mm - Dày 16.49 mm - Nặng 1.49 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_2.html",
+    "product_name": "Laptop Lenovo Ideapad 3 15IAU7 i3 1215U/8GB/256GB/Win11 (82RK00RWVN)",
+    "present_price": 8990000,
+    "old_price": 10990000,
+    "discount": 0.18,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm, 1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.2 mm - Rộng 236.5 mm - Dày 19.9 mm - Nặng 1.63 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_20.html",
+    "product_name": "Laptop Lenovo Ideapad 5 Pro 14IAP7 i5 1240P/16GB/512GB/Win11 (82SH000SVN)",
+    "present_price": 19990000,
+    "old_price": 24990000,
+    "discount": 0.2,
+    "raw_specs": "CPU:: i5, 1240P, 1.7GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))\nMàn hình:: 14\", 2.8K (2880 x 1800), 90Hz\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, 2 x USB Type-C, 1 x USB 3.2 (Always on), 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 312.2 mm - Rộng 221 mm - Dày 15.9 mm - Nặng 1.42 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_21.html",
+    "product_name": "Laptop Lenovo Gaming Legion 5 16IRH8 i5 13500H/16GB/512GB/6GB RTX4050/165Hz/Win11 (82YA00BSVN)",
+    "present_price": 35990000,
+    "old_price": 36990000,
+    "discount": 0.03,
+    "raw_specs": "CPU:: i5, 13500H, 2.6GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 5200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 1 TB)\nMàn hình:: 16\", WQXGA (2560 x 1600), 165Hz\nCard màn hình:: Card rời, RTX 4050 6GB\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 3.2 (Always on), 1 x USB 3.2, Jack tai nghe 3.5 mm, 1 x USB-C 3.2 Gen 2 (hỗ trợ truyền dữ liệu and DisplayPort 1.4), 1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 359.7 mm - Rộng 260.3 mm - Dày 19.9 ~ 21.9 mm - Nặng 2.4 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_22.html",
+    "product_name": "Laptop Lenovo Yoga Duet 7 13ITL6 i7 1165G7/16GB/1TB/Touch/Pen/Win11 (82MA009PVN)",
+    "present_price": 35490000,
+    "old_price": 36490000,
+    "discount": 0.03,
+    "raw_specs": "CPU:: i7, 1165G7, 2.8GHz\nRAM:: 16 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 1 TB SSD\nMàn hình:: 13\", WQHD (2160x1350)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ Power Delivery 3.0 và DisplayPort 1.4), 1 x USB-C 3.2 Gen 1 (hỗ trợ truyền dữ liệu và Always On), Jack tai nghe 3.5 mm, 1 x USB-C 3.2 Gen 1 (hỗ trợ truyền dữ liệu và Power Delivery 3.0)\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Mặt trên Magie Nhôm - Mặt dưới vải nhựa\nKích thước, khối lượng:: Dài 297.4 mm - Rộng 207.4 mm - Dày 9.19 mm - Nặng 1.168 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_23.html",
+    "product_name": "Laptop Lenovo Yoga Slim 7 Carbon 13ITL5 i7 1165G7/16GB/1TB/Win11 (82EV00AWVN)",
+    "present_price": 34990000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i7, 1165G7, 2.8GHz\nRAM:: 16 GB, LPDDR4X (Onboard), 4266 MHz\nỔ cứng:: 1 TB SSD M.2 PCIe\nMàn hình:: 13.3\", WQXGA (2560 x 1600)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: USB Type-C, 2 x Thunderbolt 4, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Mặt lưng Carbon - Chiếu nghỉ tay bằng Nhôm Magie\nKích thước, khối lượng:: Dài 295.88 mm - Rộng 208.85 mm - Dày 15 mm - Nặng 0.966 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_24.html",
+    "product_name": "Laptop Lenovo ThinkPad E15 Gen 4 i7 1260P/16GB/512GB/Win11 (21E600CPVN)",
+    "present_price": 28690000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i7, 1260P, 2.1GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ Power Delivery 3.0 và DisplayPort 1.4), HDMI, LAN (RJ45), 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 365 mm - Rộng 240 mm - Dày 18.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_25.html",
+    "product_name": "Laptop Lenovo ThinkPad E16 Gen 1 i7 1360P/16GB/512GB/Win11 (21JN006UVN)",
+    "present_price": 27890000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i7, 1360P, 2.2GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 16\", WUXGA (1920 x 1200)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.4), 1 x USB 3.2 (Always on), 1 x USB 2.0, Jack tai nghe 3.5 mm, 1 x Thunderbolt 4 / USB 4 (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.4)\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nhôm\nKích thước, khối lượng:: Dài 356.1 mm - Rộng 247.7 mm - Dày 19.85 mm - Nặng 1.97 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_26.html",
+    "product_name": "Laptop Lenovo Yoga Duet 7 13ITL6 i5 1135G7/8GB/512GB/Touch/Pen/Win11 (82MA009NVN)",
+    "present_price": 27490000,
+    "old_price": 28490000,
+    "discount": 0.04,
+    "raw_specs": "CPU:: i5, 1135G7, 2.4GHz\nRAM:: 8 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 13\", WQHD (2160x1350)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ DisplayPort), 1 x USB-C 3.2 Gen 1 (hỗ trợ truyền dữ liệu và Always On), Jack tai nghe 3.5 mm, 1 x USB-C 3.2 Gen 1 (hỗ trợ truyền dữ liệu và Power Delivery 3.0)\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Mặt trên Magie Nhôm - Mặt dưới vải nhựa\nKích thước, khối lượng:: Dài 297.4 mm - Rộng 207.4 mm - Dày 9.19 mm - Nặng 1.168 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_27.html",
+    "product_name": "Laptop Lenovo Yoga 7 14IAL7 i5 1240P/16GB/512GB/Touch/Pen/Win11 (82QE000RVN)",
+    "present_price": 26990000,
+    "old_price": 30990000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i5, 1240P, 1.7GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", 2.8K (2880 x 1800) - OLED, 90Hz\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, 2 x Thunderbolt 4, 1 x USB 3.2 (Always on), Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 316.66 mm - Rộng 220.25 mm - Dày 17.35 mm - Nặng 1.42 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_28.html",
+    "product_name": "Laptop Lenovo Yoga 7 14IRL8 i5 1340P/16GB/512GB/Touch/Pen/OfficeHS/Win11 (82YL006AVN)",
+    "present_price": 23490000,
+    "old_price": 25990000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i5, 1340P, 1.9GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 5200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", WUXGA (1920 x 1200) - OLED\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x Thunderbolt 4 (hỗ trợ truyền dữ liệu, Power Delivery 3.0 and DisplayPort 1.4), HDMI, 1 x USB 3.2 (Always on), Jack tai nghe 3.5 mm\nĐặc biệt:: Có màn hình cảm ứng, Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL + Office Home & Student vĩnh viễn\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 317.87 mm - Rộng 222.5 mm - Dày 16.49 mm - Nặng 1.49 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_29.html",
+    "product_name": "Laptop Lenovo ThinkBook 15 G5 IRL i7 1355U/16GB/512GB/15.6\"F/Win11 (21JD002AVN)",
+    "present_price": 22490000,
+    "old_price": 25990000,
+    "discount": 0.13,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 3.2 (Always on), 1 x USB 3.2, Jack tai nghe 3.5 mm, 1 x Thunderbolt 4 / USB 4 (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.4), 1 x USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.4)\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 357 mm - Rộng 235 mm - Dày 18.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_3.html",
+    "product_name": "Laptop Lenovo V14 G3 ABA R5 5625U/8GB/512GB/Win11 (82TU006SVN)",
+    "present_price": 9990000,
+    "old_price": 13190000,
+    "discount": 0.24,
+    "raw_specs": "CPU:: Ryzen 5, 5625U, 2.30 GHz\nRAM:: 8 GB, DDR4 (Onboard 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0, Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Radeon\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm, USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.2)\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 324 mm - Rộng 215 mm - Dày 19.9 mm - Nặng 1.43 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_30.html",
+    "product_name": "Laptop Lenovo Ideapad 5 Pro 14IAP7 i7 1260P/16GB/512GB/Win11(82SH002SVN)",
+    "present_price": 21990000,
+    "old_price": 27990000,
+    "discount": 0.21,
+    "raw_specs": "CPU:: i7, 1260P, 2.1GHz\nRAM:: 16 GB, LPDDR5 (Onboard), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))\nMàn hình:: 14\", 2.8K (2880 x 1800), 90Hz\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, 2 x USB Type-C, 1 x USB 3.2 (Always on), 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 312.2 mm - Rộng 221 mm - Dày 15.9 mm - Nặng 1.42 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_31.html",
+    "product_name": "Laptop Lenovo ThinkBook 15 G5 IRL i5 1355U/16GB/512GB/Win11 (21JD002FVN)",
+    "present_price": 18990000,
+    "old_price": 22590000,
+    "discount": 0.16,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 3.2 (Always on), 1 x USB 3.2, Jack tai nghe 3.5 mm, 1 x Thunderbolt 4 / USB 4 (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.4), 1 x USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.4)\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 357 mm - Rộng 235 mm - Dày 18.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_32.html",
+    "product_name": "Laptop Lenovo ThinkBook 14 G4 IAP i5 1240P/8GB/512GB/Win11 (21DH00B5VN)",
+    "present_price": 17190000,
+    "old_price": 23690000,
+    "discount": 0.27,
+    "raw_specs": "CPU:: i5, 1240P, 1.7GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x Thunderbolt 4 (hỗ trợ Power Delivery 3.0 và DisplayPort 1.4), HDMI, LAN (RJ45), USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.4), 1 x USB 3.2 (Always on), 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nhôm\nKích thước, khối lượng:: Dài 323 mm - Rộng 218 mm - Dày 17.9 mm - Nặng 1.4 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_33.html",
+    "product_name": "Laptop Lenovo V15 G4 IRU i5 1335U/16GB/512GB/Win11 (83A1000LVN)",
+    "present_price": 14990000,
+    "old_price": 17990000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB), Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm, USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.2)\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.2 mm - Rộng 235.8 mm - Dày 19.9 mm - Nặng 1.67 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_34.html",
+    "product_name": "Laptop Lenovo Ideapad 3 14ABA7 R5 5625U/8GB/256GB/Win11 (82RM003WVN)",
+    "present_price": 11490000,
+    "old_price": 14890000,
+    "discount": 0.23,
+    "raw_specs": "CPU:: Ryzen 5, 5625U, 2.30 GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Radeon\nCổng kết nối:: HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm, USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.2)\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 324.2 mm - Rộng 215.7 mm - Dày 19.9 mm - Nặng 1.43 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_35.html",
+    "product_name": "Laptop Lenovo V14 G4 IRU i3 1315U/8GB/512GB/Win11 (83A0000TVN)",
+    "present_price": 10990000,
+    "old_price": 13690000,
+    "discount": 0.2,
+    "raw_specs": "CPU:: i3, 1315U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0, Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm, USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.2)\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 324.2 mm - Rộng 215.2 mm - Dày 19.9 mm - Nặng 1.41 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_36.html",
+    "product_name": "Laptop Lenovo V15 G3 ABA R5 5625U/8GB/512GB/Win11 (82TV008HVN)",
+    "present_price": 10490000,
+    "old_price": 13990000,
+    "discount": 0.25,
+    "raw_specs": "CPU:: Ryzen 5, 5625U, 2.30 GHz\nRAM:: 8 GB, DDR4 (Onboard 4 GB + 1 khe 4 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0, Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Radeon\nCổng kết nối:: HDMI, LAN (RJ45), 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm, USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.2)\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359 mm - Rộng 236 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_37.html",
+    "product_name": "Laptop Lenovo Ideapad 3 15IAU7 i3 1215U/8GB/512GB/Win11 (82RK00QYVN)",
+    "present_price": 9490000,
+    "old_price": 11790000,
+    "discount": 0.2,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm, 1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.2 mm - Rộng 236.5 mm - Dày 19.9 mm - Nặng 1.63 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_4.html",
+    "product_name": "Laptop Lenovo IdeaPad Slim 5 Light 14ABR8 R5 7530U/16GB/512GB/Win11 (82XS002KVN)",
+    "present_price": 14990000,
+    "old_price": 17990000,
+    "discount": 0.17,
+    "raw_specs": "CPU:: Ryzen 5, 7530U, 2GHz\nRAM:: 16 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Radeon\nCổng kết nối:: HDMI, 2 x USB 3.2, Jack tai nghe 3.5 mm, USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.2)\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại - Nắp lưng bằng nhựa\nKích thước, khối lượng:: Dài 324.1 mm - Rộng 215.7 mm - Dày 17.1 mm - Nặng 1.17 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_5.html",
+    "product_name": "Laptop Lenovo Ideapad 3 15ITL6 i3 1115G4/8GB/512GB/Win11 (82H803SFVN)",
+    "present_price": 8890000,
+    "old_price": 11290000,
+    "discount": 0.21,
+    "raw_specs": "CPU:: i3, 1115G4, 3GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu), HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.2 mm - Rộng 236.5 mm - Dày 19.9 mm - Nặng 1.65 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_6.html",
+    "product_name": "Laptop Lenovo Ideapad 1 15ALC7 R7 5700U/16GB/512GB/Win11 (82R400C1VN)",
+    "present_price": 12990000,
+    "old_price": 13990000,
+    "discount": 0.07,
+    "raw_specs": "CPU:: Ryzen 7, 5700U, 1.8GHz\nRAM:: 16 GB, DDR4 2 khe (8 GB onboard + 1 khe 8 GB), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Radeon\nCổng kết nối:: 1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu), HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 360.2 mm - Rộng 236 mm - Dày 17.9 mm - Nặng 1.61 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_7.html",
+    "product_name": "Laptop Lenovo Ideapad 3 15IAU7 i3 1215U/8GB/512GB/Win11 (82RK001MVN)",
+    "present_price": 9490000,
+    "old_price": 14690000,
+    "discount": 0.35,
+    "raw_specs": "CPU:: i3, 1215U, 1.2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: HDMI, 1 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm, USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.2)\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.2 mm - Rộng 236.5 mm - Dày 19.9 mm - Nặng 1.63 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_8.html",
+    "product_name": "Laptop Lenovo Ideapad 5 15IAL7 i5 1235U/8GB/512GB/Win11 (82SF005HVN)",
+    "present_price": 13990000,
+    "old_price": 19490000,
+    "discount": 0.28,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242)), Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB)\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 2 x USB Type-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 3.0, and DisplayPort 1.2), HDMI, 1 x USB 3.2 (Always on), 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 356.67 mm - Rộng 233.13 mm - Dày 16.9 mm - Nặng 1.85 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/lenovo_9.html",
+    "product_name": "Laptop Lenovo Ideapad Gaming 3 15ACH6 R5 5500H/16GB/512GB/4GB RTX2050/144Hz/Win11 (82K2027PVN)",
+    "present_price": 15990000,
+    "old_price": 18990000,
+    "discount": 0.16,
+    "raw_specs": "CPU:: Ryzen 5, 5500H, 3.3GHz\nRAM:: 16 GB, DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB), 3200 MHz\nỔ cứng:: Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 1 TB), 512 GB SSD NVMe PCIe Gen 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 2050 4GB\nCổng kết nối:: 1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.6 mm - Rộng 251.9 mm - Dày 24.2 mm - Nặng 2.25 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_0.html",
+    "product_name": "Laptop MSI Modern 14 C11M i3 1115G4/8GB/512GB/Win11 (011VN)",
+    "present_price": 9490000,
+    "old_price": 11990000,
+    "discount": 0.21,
+    "raw_specs": "CPU:: i3, 1115G4, 3GHz\nRAM:: 8 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel UHD\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery), HDMI, 2 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 319.9 mm - Rộng 223 mm - Dày 19.35 mm - Nặng 1.4 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_1.html",
+    "product_name": "Laptop MSI Modern 15 B12MO i5 1235U/8GB/512GB/Win11 (625VN)",
+    "present_price": 12990000,
+    "old_price": 13990000,
+    "discount": 0.07,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 8 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort), HDMI, 2 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359 mm - Rộng 241 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_10.html",
+    "product_name": "Laptop MSI Gaming GF63 Thin 11SC i5 11400H/8GB/512GB/4GB GTX1650/144Hz/Win11 (664VN)",
+    "present_price": 16340000,
+    "old_price": 16490000,
+    "discount": 0.01,
+    "raw_specs": "CPU:: i5, 11400H, 2.7GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ khe cắm SATA 2.5 inch mở rộng (nâng cấp SSD hoặc HDD đều được)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, GTX 1650 Max-Q 4GB\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 359 mm - Rộng 254 mm - Dày 21.7 mm - Nặng 1.86 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_11.html",
+    "product_name": "Laptop MSI Modern 15 B12MO i5 1235U/16GB/512GB/Win11 (628VN)",
+    "present_price": 13990000,
+    "old_price": 14490000,
+    "discount": 0.03,
+    "raw_specs": "CPU:: i5, 1235U, 1.3GHz\nRAM:: 16 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (chỉ hỗ trợ Power Delivery), HDMI, 2 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359 mm - Rộng 241 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_12.html",
+    "product_name": "Laptop MSI Modern 14 C7M R5 7530U/8GB/512GB/Win11 (083VN)",
+    "present_price": 10990000,
+    "old_price": 13990000,
+    "discount": 0.21,
+    "raw_specs": "CPU:: Ryzen 5, 7530U, 2GHz\nRAM:: 8 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Radeon\nCổng kết nối:: 1 x USB Type-C 3.2 (hỗ trợ Power Delivery), HDMI, 2 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 319.9 mm - Rộng 223 mm - Dày 19.35 mm - Nặng 1.4 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_13.html",
+    "product_name": "Laptop MSI Gaming GF63 Thin 11UC i5 11400H/8GB/512GB/4GB RTX3050/144Hz/Win11 (1230VN)",
+    "present_price": 15990000,
+    "old_price": 18490000,
+    "discount": 0.14,
+    "raw_specs": "CPU:: i5, 11400H, 2.7GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ khe cắm SATA 2.5 inch mở rộng (nâng cấp SSD hoặc HDD đều được)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 Max-Q, 4GB\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 359 mm - Rộng 254 mm - Dày 21.7 mm - Nặng 1.86 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_14.html",
+    "product_name": "Laptop MSI Gaming Cyborg 15 A12VE i7 12650H/8GB/512GB/6GB RTX4050/144Hz/Balo/Win11 (240VN)",
+    "present_price": 24490000,
+    "old_price": 25490000,
+    "discount": 0.04,
+    "raw_specs": "CPU:: i7, 12650H, 2.30 GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 4050 6GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359.36 mm - Rộng 250.34 mm - Dày 21.95 ~ 22.9 mm - Nặng 1.98 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_15.html",
+    "product_name": "Laptop MSI Gaming Cyborg 15 A12VF i7 12650H/8GB/512GB/8GB RTX4060/144Hz/Balo/Win11 (267VN)",
+    "present_price": 27490000,
+    "old_price": 30490000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i7, 12650H, 2.30 GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 4060 8GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 359.36 mm - Rộng 250.34 mm - Dày 22.9 mm - Nặng 1.98 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_16.html",
+    "product_name": "Laptop MSI Gaming Katana 15 B13VEK i7 13620H/8GB/512GB/6GB RTX4050/144Hz/Balo/Win11 (252VN)",
+    "present_price": 26190000,
+    "old_price": 27990000,
+    "discount": 0.06,
+    "raw_specs": "CPU:: i7, 13620H, 2.4GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 5200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 4050 6GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, LAN (RJ45), 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359 mm - Rộng 259 mm - Dày 24.9 mm - Nặng 2.25 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_17.html",
+    "product_name": "Laptop MSI Gaming Katana 15 B13VFK i7 13620H/16GB/1TB/8GB RTX4060/144Hz/Balo/Win11 (676VN)",
+    "present_price": 31990000,
+    "old_price": null,
+    "discount": null,
+    "raw_specs": "CPU:: i7, 13620H, 2.4GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 5200 MHz\nỔ cứng:: 1 TB SSD NVMe PCIe Gen 4\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 4060 8GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, LAN (RJ45), USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359 mm - Rộng 259 mm - Dày 24.9 mm - Nặng 2.25 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_18.html",
+    "product_name": "Laptop MSI Modern 14 C13M i7 1355U/16GB/512GB/Win11 (607VN)",
+    "present_price": 19390000,
+    "old_price": 21490000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i7, 1355U, 1.7GHz\nRAM:: 16 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 14\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, 2 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 319.9 mm - Rộng 223 mm - Dày 19.35 mm - Nặng 1.4 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_19.html",
+    "product_name": "Laptop MSI Gaming Cyborg 15 A12UCX i5 12450H/8GB/512GB/4GB RTX2050/144Hz/Balo/Win11 (281VN)",
+    "present_price": 17490000,
+    "old_price": 18990000,
+    "discount": 0.08,
+    "raw_specs": "CPU:: i5, 12450H, 2GHz\nRAM:: 8 GB, DDR5 2 khe (1 khe 8 GB + 1 khe trống), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 2050 4GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa - nắp lưng bằng kim loại\nKích thước, khối lượng:: Dài 359.36 mm - Rộng 250.34 mm - Dày 22.9 mm - Nặng 1.98 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_2.html",
+    "product_name": "Laptop MSI Gaming GF63 Thin 12VE i5 12450H/8GB/512GB/6GB RTX4050/144Hz/Win11 (460VN)",
+    "present_price": 20490000,
+    "old_price": 22490000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i5, 12450H, 2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0, Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 4050 6GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 359 mm - Rộng 254 mm - Dày 21.7 mm - Nặng 1.86 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_20.html",
+    "product_name": "Laptop MSI Modern 15 B12MO i7 1255U/16GB/512GB/Win11 (487VN)",
+    "present_price": 17490000,
+    "old_price": 19490000,
+    "discount": 0.1,
+    "raw_specs": "CPU:: i7, 1255U, 1.7GHz\nRAM:: 16 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort), HDMI, 2 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359 mm - Rộng 241 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_21.html",
+    "product_name": "Laptop MSI Modern 15 B13M i5 1335U/8GB/512GB/Win11 (438VN)",
+    "present_price": 15990000,
+    "old_price": 18490000,
+    "discount": 0.14,
+    "raw_specs": "CPU:: i5, 1335U, 1.3GHz\nRAM:: 8 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Intel Iris Xe\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, 2 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359 mm - Rộng 241 mm - Dày 19.9 mm - Nặng 1.7 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_3.html",
+    "product_name": "Laptop MSI Gaming Bravo 15 B7ED R5 7535HS/16GB/512GB/4GB RX6550M/144Hz/Win11 (010VN)",
+    "present_price": 16990000,
+    "old_price": 18490000,
+    "discount": 0.08,
+    "raw_specs": "CPU:: Ryzen 5, 7535HS, 3.3GHz\nRAM:: 16 GB, DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB), 4800 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0, Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe mở rộng\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RX 6550M 4GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, LAN (RJ45), 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359 mm - Rộng 259 mm - Dày 24.95 mm - Nặng 2.25 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_4.html",
+    "product_name": "Laptop MSI Modern 15 B7M R5 7530U/16GB/512GB/Win11 (231VN)",
+    "present_price": 13990000,
+    "old_price": 14990000,
+    "discount": 0.07,
+    "raw_specs": "CPU:: Ryzen 5, 7530U, 2GHz\nRAM:: 16 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Radeon\nCổng kết nối:: 1 x USB Type-C (chỉ hỗ trợ Power Delivery), HDMI, 2 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359 mm - Rộng 241 mm - Dày 19.9 mm - Nặng 1.75 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_5.html",
+    "product_name": "Laptop MSI Gaming GF63 Thin 11UC i7 11800H/8GB/512GB/4GB RTX3050/144Hz/Win11 (1228VN)",
+    "present_price": 18690000,
+    "old_price": 20490000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i7, 11800H, 2.30 GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe, Hỗ trợ khe cắm SATA 2.5 inch mở rộng (nâng cấp SSD hoặc HDD đều được)\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 Max-Q, 4GB\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 3 x USB 3.2, 1x Mic-in, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ kim loại\nKích thước, khối lượng:: Dài 359 mm - Rộng 254 mm - Dày 21.7 mm - Nặng 1.86 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_6.html",
+    "product_name": "Laptop MSI Gaming GF63 12UCX i5 12450H/8GB/512GB/4GB RTX2050/144Hz/Win11 (841VN)",
+    "present_price": 16490000,
+    "old_price": 17990000,
+    "discount": 0.08,
+    "raw_specs": "CPU:: i5, 12450H, 2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0, Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 2050 4GB\nCổng kết nối:: 1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort), HDMI, LAN (RJ45), 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 359 mm - Rộng 254 mm - Dày 21.7 mm - Nặng 1.86 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_7.html",
+    "product_name": "Laptop MSI Gaming GF63 12UC i5 12450H/8GB/512GB/4GB RTX3050/144Hz/Win11 (803VN)",
+    "present_price": 17290000,
+    "old_price": 18990000,
+    "discount": 0.09,
+    "raw_specs": "CPU:: i5, 12450H, 2GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0, Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 4GB\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 3 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Nắp lưng và chiếu nghỉ tay bằng kim loại\nKích thước, khối lượng:: Dài 359 mm - Rộng 254 mm - Dày 21.7 mm - Nặng 1.86 kg\nThời điểm ra mắt:: 2023\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_8.html",
+    "product_name": "Laptop MSI Gaming Katana GF66 12UCK i7 12650H/8GB/512GB/4GB RTX3050/144Hz/Balo/Win11 (804VN)",
+    "present_price": 21790000,
+    "old_price": 27490000,
+    "discount": 0.21,
+    "raw_specs": "CPU:: i7, 12650H, 2.30 GHz\nRAM:: 8 GB, DDR4 2 khe (1 khe 8 GB + 1 khe rời), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe Gen 4.0\nMàn hình:: 15.6\", Full HD (1920 x 1080), 144Hz\nCard màn hình:: Card rời, RTX 3050 4GB\nCổng kết nối:: HDMI, LAN (RJ45), USB Type-C, 1 x USB 2.0, 2 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359 mm - Rộng 259 mm - Dày 24.9 mm - Nặng 2.25 kg\nThời điểm ra mắt:: 2022\n"
+  },
+  {
+    "html_path": "data/raw_htmls/tgdd/msi_9.html",
+    "product_name": "Laptop MSI Modern 15 B7M R7 7730U/16GB/512GB/Win11 (238VN)",
+    "present_price": 15990000,
+    "old_price": 16990000,
+    "discount": 0.06,
+    "raw_specs": "CPU:: Ryzen 7, 7730U, 2GHz\nRAM:: 16 GB, DDR4 (Onboard), 3200 MHz\nỔ cứng:: 512 GB SSD NVMe PCIe\nMàn hình:: 15.6\", Full HD (1920 x 1080)\nCard màn hình:: Card tích hợp, Radeon\nCổng kết nối:: 1 x USB Type-C (chỉ hỗ trợ Power Delivery), HDMI, 2 x USB 2.0, 1 x USB 3.2, Jack tai nghe 3.5 mm\nĐặc biệt:: Có đèn bàn phím\nHệ điều hành:: Windows 11 Home SL\nThiết kế:: Vỏ nhựa\nKích thước, khối lượng:: Dài 359 mm - Rộng 241 mm - Dày 19.9 mm - Nặng 1.75 kg\nThời điểm ra mắt:: 2023\n"
+  }
+]

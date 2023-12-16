@@ -6,6 +6,7 @@ import traceback
 sys.path.append(os.getcwd())  # NOQA
 
 from src.utils.selenium import ChromeDriver
+from src.chatgpt.parse_specs_helper import convert_json
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -22,6 +23,11 @@ class Tgdd(BaseCrawler):
     def __init__(self, headless: bool = False):
         self.tgdd_config = self.load_config('tgdd.json')
         self.headless = headless
+
+        # Connect to database
+        self.conn = self.connect_db('ttchat.db')
+
+    # ----------------- Get all product links -----------------
 
     def _click_show_more(self, driver):
         # ----------------- Click Show More -----------------
@@ -142,12 +148,9 @@ class Tgdd(BaseCrawler):
         with open('data/tgdd_product_links.json', 'r') as f:
             tgdd_product_links: dict = json.load(f)
 
-        # Connect to database
-        self.conn = self.connect_db('ttchat.db')
-
         def build_insert_query(manufacturer: str, url: str, raw_html_path: str) -> str:
             return f"""
-                INSERT INTO HTML (Manufacturer, Url, Raw_html_path)
+                INSERT INTO html (Manufacturer, Url, Raw_html_path)
                 VALUES ('{manufacturer}', '{url}', '{raw_html_path}')
             """
 
@@ -173,7 +176,7 @@ class Tgdd(BaseCrawler):
         self.log(f'Finish fetching ...')
 
     # ----------------- Parse raw_htmls -----------------
-    def _parse_specs(self, html_path: str):
+    def parse_specs(self, html_path: str):
         with open(html_path, 'r', encoding='utf-8') as f:
             soup = bs(f.read(), 'html.parser')
 
@@ -234,6 +237,7 @@ class Tgdd(BaseCrawler):
         raw_specs = build_raw_specs()
 
         return {
+            'html_path': html_path,
             'product_name': product_name,
             'present_price': present_price,
             'old_price': old_price,
@@ -241,15 +245,106 @@ class Tgdd(BaseCrawler):
             'raw_specs': raw_specs
         }
 
+    # ----------------- Feature Engineering using GPT -----------------
+
+    def buid_insert_item_query(self, path_to_features, item: dict) -> str:
+        detail_info = {}
+
+        path = item['html_path']
+        product_name = item['product_name']
+        present_price = item['present_price']
+        old_price = item['old_price']
+        discount = item['discount']
+        raw_specs = item['raw_specs']
+
+        # Parse the specs using GPT
+        result = convert_json(url=path_to_features[path]['url'], raw_specs=raw_specs)
+        self.log(f'===> {result["status"]}: {result["message"]}')
+
+        if result['status'] == 'success':
+            item_specs = json.loads(result['data'])
+        self.log(json.dumps(item_specs, indent=4, ensure_ascii=False))
+
+        # Now insert to data_json
+        detail_info['product_name'] = product_name
+        detail_info['url'] = path_to_features[path]['url']
+        detail_info['present_price'] = present_price
+        detail_info['old_price'] = old_price
+        detail_info['discount'] = discount
+        detail_info['manufacturer'] = path_to_features[path]['manufacturer']
+        detail_info['raw_html_path'] = path_to_features[path]['raw_html_path']
+
+        # Merge the specs in to data_json[path]
+        for key, val in item_specs.items():
+            detail_info[key] = val
+
+        # Build the query
+        query = self.build_insert_query('laptop_detail', detail_info)
+
+        return query, detail_info
+
+    def feature_engineering(self):
+        queries = []
+        detail_infos = []
+
+        path_to_features = {}
+
+        result = self.conn.execute('SELECT * FROM html').fetchall()
+
+        for row in result:
+            path_to_features[row[3]] = {
+                'manufacturer': row[1],
+                'url': row[2],
+                'raw_html_path': row[3],
+            }
+
+        # Next step, we need to parse the specs from the raw specs
+        with open(os.path.join('data/tgdd_detail.json'), 'r', encoding='utf-8') as f:
+            tgdd_detail: dict = json.load(f)
+
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            futures = []
+
+            for item in tgdd_detail:
+                futures.append(executor.submit(self.buid_insert_item_query, path_to_features, item))
+
+            for idx, future in enumerate(as_completed(futures)):
+                self.log(f'===> [{idx}/{len(futures)}]==========================')
+                query = future.result()[0]
+                detail_info = future.result()[1]
+                queries.append(query)
+                detail_infos.append(detail_info)
+
+        with open('data/tgdd_robust_detail_info.json', 'w', encoding='utf-8') as f:
+            json.dump(detail_infos, f, indent=4, ensure_ascii=False)
+
+        self.log('Inserting to database ...')
+
+        for query in queries:
+            try:
+                self.conn.execute(query)
+                self.conn.commit()
+            except:
+                continue
+
+        self.log('Done')
+        self.conn.close()
+
 
 if __name__ == '__main__':
     tgdd = Tgdd(headless=True)
     # tgdd.get_all_product_links()
     # tgdd._crawl_raw_htmls()
 
-    for file_name in os.listdir('data/raw_htmls/tgdd'):
-        print('Parsing', file_name)
+    # Test robustness (Done)
+    # data = []
+    # for file_name in os.listdir('data/raw_htmls/tgdd'):
+    #     print('Parsing', file_name)
+    #     item = tgdd.parse_specs(f'data/raw_htmls/tgdd/{file_name}')
+    #     data.append(item)
+    #     print('====')
 
-        print(tgdd._parse_specs(f'data/raw_htmls/tgdd/{file_name}'))
+    # with open('data/tgdd_detail.json', 'w', encoding='utf-8') as f:
+    #     json.dump(data, f, indent=4, ensure_ascii=False)
 
-        print('====')
+    tgdd.feature_engineering()

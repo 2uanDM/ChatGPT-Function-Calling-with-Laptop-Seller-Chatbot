@@ -33,3 +33,20 @@ class BaseCrawler(ABC):
         datefmt = datetime.strftime(datetime.now(), format='%Y-%m-%d %H:%M:%S')
         # Print to console
         print(f'[{datefmt}]: {msg}')
+
+    def build_insert_query(self, table_name, item):
+        columns = list(item.keys())
+        vals = []
+
+        for col in columns:
+            if type(item[col]) == str:
+                vals.append(f"'{item[col]}'")
+            else:
+                vals.append(str(item[col]))
+
+        query = f"""
+                insert into {table_name} ({','.join(columns)})
+                values ({','.join(vals)})
+            """
+
+        return query
