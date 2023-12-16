@@ -10,11 +10,11 @@
     "parameters": {
       "type": "object",
       "properties": {
-        "start_price": {
+        "start_present_price": {
           "type": "integer",
           "description": "The start price of laptop that user want to buy. If user don't care about price, this value will be null"
         },
-        "end_price": {
+        "end_present_price": {
           "type": "integer",
           "description": "The end price of laptop that user want to buy. If user don't care about price, this value will be null"
         },
@@ -38,19 +38,19 @@
           "type": "string",
           "description": "The disk type of laptop that user want to buy. Must be upper case in these type(SSD, HDD). If user don't care about disk type, this value will be null"
         },
-        "disk_size_start": {
+        "start_disk_size": {
           "type": "integer",
           "description": "The start value of disk size of laptop that user want to buy. If user don't care about disk size, this value will be null"
         },
-        "disk_size_end": {
+        "end_disk_size": {
           "type": "integer",
           "description": "The end value of disk size of laptop that user want to buy. If user don't care about disk size, this value will be null"
         },
-        "ram_size_start": {
+        "start_ram_gb": {
           "type": "integer",
           "description": "The start value of ram size of laptop that user want to buy. If user don't care about ram size, this value will be null"
         },
-        "ram_size_end": {
+        "end_ram_gb": {
           "type": "integer",
           "description": "The end value of ram size of laptop that user want to buy. If user don't care about ram size, this value will be null"
         },
@@ -62,11 +62,11 @@
           "type": "list",
           "description": "The screen size of laptop that user want to buy (in float). If user want big screen, it mean that they want 15.6 inch upper, so return [15.6, 17.3] for example. Hence, if user want small screen, return list of screen smaller than 14 (inches). Remember that values in list must be float. If user don't care about screen size, this value will be null"
         },
-        "screen_refresh_rate_start": {
+        "start_screen_refresh_rate": {
           "type": "integer",
           "description": "The start value of screen refresh rate of laptop that user want to buy. If user don't care about screen refresh rate, this value will be null"
         },
-        "screen_refresh_rate_end": {
+        "end_screen_refresh_rate": {
           "type": "integer",
           "description": "The end value of screen refresh rate of laptop that user want to buy. If user don't care about screen refresh rate, this value will be null"
         },
@@ -78,11 +78,11 @@
           "type": "list",
           "description": "The gpu brand of laptop that user want to buy. Must be lowercase in these brand(nvidia, amd, intel). For example, if user want just nvidia, then return ['nvidia'], if user want nvidia and amd, return ['nvidia','amd']. If user don't care about gpu brand, this value will be null"
         },
-        "weigh_kg_start": {
+        "start_weigh_kg": {
           "type": "float",
           "description": "The start value weight of laptop that user want to buy (in kg). If user don't care about weight, this value will be null"
         },
-        "weigh_kg_end": {
+        "end_weigh_kg": {
           "type": "float",
           "description": "The end value weight of laptop that user want to buy (in kg). If user don't care about weight, this value will be null"
         }
