@@ -1,0 +1,4 @@
+Dựa trên những thông số mà người dùng muốn, chúng ta đã lọc ra được những sản phẩm phù hợp nhất với người dùng.
+Dưới đây là những sản phẩm đó (Chúng được tổ chức theo định dạng csv)
+Hãy thật sáng suốt, tập trung để tư vấn cho người dùng thật tốt dựa trên những sản phẩm này nhé
+Và nhớ là tuyệt đối chỉ tư vấn dựa trên những sản phẩm này thôi nhé, không được tư vấn thêm những chi tiết khác không có trong dữ liệu này:

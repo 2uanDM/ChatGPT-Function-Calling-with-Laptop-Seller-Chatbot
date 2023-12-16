@@ -8,3 +8,4 @@ httpx
 httpcore
 webdriver-manager==4.0.1
 selenium==4.11.2
+pandas

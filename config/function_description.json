@@ -1,22 +1,39 @@
 [
   {
-    "name": "print_haha",
-    "description": "Call this function when the user is happy",
+    "name": "release_context_token",
+    "description": "You are TTChat, a chatbot that helps users choose the suitable laptop based on their needs. This function must be call when the current context is nearly 16000 to release the message context. This is really important",
     "parameters": null
   },
   {
-    "name": "queries_db",
-    "description": "You are TTChat, a chatbot that helps users choose the suitable laptop based on their needs. Of course, we have a database that contains a lot of features of laptops, but we need to infer what users want so that we can query relative laptops from the database. This function must be called when you think that the user tells you what they need in a laptop (Price, Brand, Use Purpose, Weight, Screen Size or Resolution, etc). I will give you a description below with many features to collect.",
+    "name": "get_laptop_detail",
+    "description": "You are TTChat, a chatbot that helps users choose the suitable laptop based on their needs. This function must be called when the user wants to know detail about some founded product. I will give you a description below with those laptop",
     "parameters": {
       "type": "object",
       "properties": {
+        "which_one": {
+          "type": "string",
+          "description": "The order of the laptop in the list of recommned laptops or sometime the name of that laptop. For example, if the user wants to know detail about the first laptop in the list, then return 'first', if the user wants to know detail about the second laptop in the list, then return 'second', if the user wants to know detail about the laptop named 'acer aspire 5', then return 'acer aspire 5'. If the user doesn't care about the laptop, this value will be null"
+        }
+      }
+    }
+  },
+  {
+    "name": "queries_db",
+    "description": "You are TTChat, a chatbot that helps users choose the suitable laptop based on their needs. Of course, we have a database that contains a lot of features of laptops, but we need to infer what users want so that we can query relative laptops from the database. This function must be called when you think that the user tells you about specs they need in a laptop, or they change their option. Remember that, if user want to know detail about some founded product, do not call this function (Price, Brand, Use Purpose, Weight, Screen Size or Resolution, etc). I will give you a description below with many features to collect.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "content": {
+          "type": "string",
+          "description": "The content of the user requirement"
+        },
         "start_present_price": {
           "type": "integer",
-          "description": "The start price of the laptop that the user wants to buy. If the user doesn't care about the price, this value will be null"
+          "description": "The start price of the laptop in Viet Nam Dong that the user wants to buy. If the user doesn't care about the price, this value will be null"
         },
         "end_present_price": {
           "type": "integer",
-          "description": "The end price of the laptop that the user wants to buy. If the user doesn't care about the price, this value will be null"
+          "description": "The end price of the laptop in Viet Nam Dong that the user wants to buy. If the user doesn't care about the price, this value will be null"
         },
         "manufacturer": {
           "type": "array",
@@ -28,7 +45,7 @@
         },
         "laptop_type": {
           "type": "string",
-          "description": "The type of laptop that the user wants to buy. Must be lowercase in these types (gaming, business, normal, workstation). If the user doesn't care about the type, this value will be null"
+          "description": "The type of laptop that the user wants to buy. Must be lowercase in these types (gaming, business, normal, workstation). Note that you should not just introduct to user just workstation since they are rare, so you should also add gaming device. If the user doesn't care about the type, this value will be null"
         },
         "cpu": {
           "type": "array",
@@ -42,7 +59,7 @@
           "type": "array",
           "items": {
             "type": "integer",
-            "description": "The CPU generation of the laptop that the user wants to buy (integer). The example return is [11, 12] if the user wants CPU gen 11 or CPU gen 12. If the user doesn't care about CPU generation, this value will be null"
+            "description": "The CPU generation of the laptop that the user wants to buy (integer). The example return is [12, 13] if the user wants CPU gen 11 or CPU gen 13. Not that this feature is not necessary, so just when user ask then add this feature, else forget it. If the user doesn't care about CPU generation, this value will be null"
           },
           "description": "The CPU generation of the laptop that the user wants to buy."
         },
@@ -119,29 +136,12 @@
           "description": "The end value weight of the laptop that the user wants to buy (in kg, can be float). If the user doesn't care about weight, this value will be null"
         }
       },
-      "required": [
-        "start_present_price",
-        "end_present_price",
-        "manufacturer",
-        "laptop_type",
-        "cpu",
-        "cpu_generation",
-        "disk_type",
-        "start_disk_size",
-        "end_disk_size",
-        "start_ram_gb",
-        "end_ram_gb",
-        "max_ram_slot",
-        "screen_ratio",
-        "screen_resolution",
-        "screen_size",
-        "start_screen_refresh_rate",
-        "end_screen_refresh_rate",
-        "gpu_type",
-        "gpu_model",
-        "start_weight_kg",
-        "end_weight_kg"
-      ]
+      "required": ["manufacturer", "laptop_type", "cpu"]
     }
+  },
+  {
+    "name": "discovery_more_laptop",
+    "description": "This function will be call when user want to discover more laptops (After surfing or event get laptop detail of the first 5 ones). You should return a list of laptops that have not been introduced to the user yet. Remember that, if user want to know detail about some founded product, do not call this function",
+    "parameters": null
   }
 ]

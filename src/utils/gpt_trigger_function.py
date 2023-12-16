@@ -11,6 +11,8 @@ def build_filter_query(**kwargs):
     query = 'SELECT * FROM laptop_detail_update\nWHERE 1=1\n'
 
     for key, value in kwargs.items():
+        if key == 'content':
+            continue
         if value is None:
             continue
         if isinstance(value, list):
