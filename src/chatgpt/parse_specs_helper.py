@@ -58,7 +58,8 @@ def _tgdd_parser_prompt(raw_specs: str) -> str:
         'ram_gb': int,
         'max_ram_slot': int, (If the you can't find this info, set it to 1)
         'screen_size': float,
-        'screen_resolution': str,
+        'screen_resolution': str, (You have to infer and remove all to get this format: width x height, for example: 1920 x 1080),
+        'screen_ratio': str, (You have to infer from the screen_resolution and remove all to get this format: width : height, for example: 16:9 for 1920 x 1080 and 16:10 for 1920 x 1200),
         'screen_refresh_rate': int, (If the you can't find this info, set it to 60)
         'gpu_type': str (dedicated or integrated),
         'gpu_model': str, (you have to add the gpu manufacturer also, nvidia or amd depend on the provided information)

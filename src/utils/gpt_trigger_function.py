@@ -8,7 +8,7 @@ def build_filter_query(**kwargs):
 
     range_value = {}
 
-    query = 'SELECT * FROM laptop_detail\nWHERE 1=1\n'
+    query = 'SELECT * FROM laptop_detail_update\nWHERE 1=1\n'
 
     for key, value in kwargs.items():
         if value is None:
@@ -17,7 +17,7 @@ def build_filter_query(**kwargs):
             if key == 'disk_type':
                 condition = f"AND lower({key}) LIKE '%{value}%'\n"
                 query += condition
-            elif key == 'cpu':
+            elif key == 'cpu' or key == 'screen_resolution':
                 condition = 'AND ('
                 for v in value:
                     or_condition = f"lower({key}) LIKE '%{v}%' OR "

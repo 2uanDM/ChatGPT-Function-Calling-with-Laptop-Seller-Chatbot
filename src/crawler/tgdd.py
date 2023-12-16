@@ -279,7 +279,7 @@ class Tgdd(BaseCrawler):
             detail_info[key] = val
 
         # Build the query
-        query = self.build_insert_query('laptop_detail', detail_info)
+        query = self.build_insert_query('laptop_detail_update', detail_info)
 
         return query, detail_info
 
