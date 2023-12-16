@@ -1,0 +1,92 @@
+[
+  {
+    "name": "print_haha",
+    "description": "Call this function when user happy",
+    "parameters": null
+  },
+  {
+    "name": "build_filter_query",
+    "description": "You are TTChat, a chatbot that help user choose the suitable laptop base on their need. Of course, we have database that contain a lot of features of laptops, but we need to infer what user want so that we can queries relative laptops from the database. This function must be call when you think that user tell you what they need in a laptop (Price, Brand, Use Purpose, Weight, Screen Size or Resolution, etc). I will give you description below with many features to collect.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "start_price": {
+          "type": "integer",
+          "description": "The start price of laptop that user want to buy. If user don't care about price, this value will be null"
+        },
+        "end_price": {
+          "type": "integer",
+          "description": "The end price of laptop that user want to buy. If user don't care about price, this value will be null"
+        },
+        "manufacturer": {
+          "type": "list",
+          "description": "The manufacturers of laptop that user want to buy. Must be lowercase in these brand(acer, asus, dell, hp, lenovo, msi). For example, if user want just acer, then return ['acer'], if user want acer and dell, return ['acer','dell']. If user don't care about manufacturer, this value will be null"
+        },
+        "laptop_type": {
+          "type": "string",
+          "description": "The type of laptop that user want to buy. Must be lowercase in these type(gaming, business, normal, workstation). If user don't care about type, this value will be null"
+        },
+        "cpu": {
+          "type": "list",
+          "description": "The cpu of laptop that user want to buy. Must be lowercase in these cpu(i3, i5, i7, i9, ryzen 3, ryzen 5, ryzen 7, ryzen 9). For example, if user want just i5, then return ['i5'], if user want i5 and ryzen 5, return ['i5','ryzen 5']. If user don't care about cpu, this value will be null"
+        },
+        "cpu_generation": {
+          "type": "list",
+          "description": "The cpu generation of laptop that user want to buy (integer). The example return is [11, 12] if user want cpu gen 11 or cpu gen 12. If user don't care about cpu generation, this value will be null"
+        },
+        "disk_type": {
+          "type": "string",
+          "description": "The disk type of laptop that user want to buy. Must be upper case in these type(SSD, HDD). If user don't care about disk type, this value will be null"
+        },
+        "disk_size_start": {
+          "type": "integer",
+          "description": "The start value of disk size of laptop that user want to buy. If user don't care about disk size, this value will be null"
+        },
+        "disk_size_end": {
+          "type": "integer",
+          "description": "The end value of disk size of laptop that user want to buy. If user don't care about disk size, this value will be null"
+        },
+        "ram_size_start": {
+          "type": "integer",
+          "description": "The start value of ram size of laptop that user want to buy. If user don't care about ram size, this value will be null"
+        },
+        "ram_size_end": {
+          "type": "integer",
+          "description": "The end value of ram size of laptop that user want to buy. If user don't care about ram size, this value will be null"
+        },
+        "max_ram_slot": {
+          "type": "integer",
+          "description": "The max ram slot of laptop that user want to buy. If user don't care about max ram slot, this value will be null"
+        },
+        "screen_size": {
+          "type": "list",
+          "description": "The screen size of laptop that user want to buy (in float). If user want big screen, it mean that they want 15.6 inch upper, so return [15.6, 17.3] for example. Hence, if user want small screen, return list of screen smaller than 14 (inches). Remember that values in list must be float. If user don't care about screen size, this value will be null"
+        },
+        "screen_refresh_rate_start": {
+          "type": "integer",
+          "description": "The start value of screen refresh rate of laptop that user want to buy. If user don't care about screen refresh rate, this value will be null"
+        },
+        "screen_refresh_rate_end": {
+          "type": "integer",
+          "description": "The end value of screen refresh rate of laptop that user want to buy. If user don't care about screen refresh rate, this value will be null"
+        },
+        "gpu_type": {
+          "type": "string",
+          "description": "The gpu type of laptop that user want to buy. Must be lowercase in these type(integrated, dedicated). If user don't care about gpu type, this value will be null"
+        },
+        "gpu_model": {
+          "type": "list",
+          "description": "The gpu brand of laptop that user want to buy. Must be lowercase in these brand(nvidia, amd, intel). For example, if user want just nvidia, then return ['nvidia'], if user want nvidia and amd, return ['nvidia','amd']. If user don't care about gpu brand, this value will be null"
+        },
+        "weigh_kg_start": {
+          "type": "float",
+          "description": "The start value weight of laptop that user want to buy (in kg). If user don't care about weight, this value will be null"
+        },
+        "weigh_kg_end": {
+          "type": "float",
+          "description": "The end value weight of laptop that user want to buy (in kg). If user don't care about weight, this value will be null"
+        }
+      }
+    }
+  }
+]
