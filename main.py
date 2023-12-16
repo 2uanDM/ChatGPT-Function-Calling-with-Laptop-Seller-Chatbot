@@ -75,9 +75,6 @@ def release_context_token() -> None:
 
         st.session_state.remain_laptops = header + '\n' + remain_content
 
-        # Keep last answer
-        last_answer = st.session_state.messages[-1]
-
         # Blank the message
         st.session_state.messages = []
 
@@ -96,20 +93,28 @@ def release_context_token() -> None:
             {"role": "system", "content": f'Đây là kết quả mới nhất gồm những laptop phù hợp với tiêu chí người dùng chọn ra. Hãy ghi nhớ nó để tư vấn thật nhiệt tình cho người dùng nhé\n {header}\n{send_content}'}
         )
 
-        # Add last answer
-        st.session_state.messages.append(
-            {"role": "system", "content": f'Đây là câu nói/ câu hỏi cuối cùng của người dùng. Hãy tiếp tục trả lời nó: {last_answer}'}
-        )
-        st.session_state.conversation.append(
-            {"role": "system", "content": f'Đây là câu nói/ câu hỏi cuối cùng của người dùng. Hãy tiếp tục trả lời nó: {last_answer}'}
+    else:
+        header = ''
+        send_content = ''
+        remain_content = ''
+
+    # Keep last answer
+    last_answer = st.session_state.messages[-1]
+
+    # Add last answer
+    st.session_state.messages.append(
+        {"role": "system", "content": f'Đây là câu nói/ câu hỏi cuối cùng của người dùng. Hãy tiếp tục trả lời nó: {last_answer}'}
+    )
+    st.session_state.conversation.append(
+        {"role": "system", "content": f'Đây là câu nói/ câu hỏi cuối cùng của người dùng. Hãy tiếp tục trả lời nó: {last_answer}'}
+    )
+
+    with st.spinner('Thinking ...'):
+        message = chat_on_demand(
+            messages=st.session_state.messages
         )
 
-        with st.spinner('Thinking ...'):
-            message = chat_on_demand(
-                messages=st.session_state.messages
-            )
-
-        _type_writer(message, speed=100)
+    _type_writer(message, speed=100)
 
 
 def store_user_requirement(content: str) -> None:
@@ -174,6 +179,15 @@ def discovery_more_laptop():
         )
 
         _type_writer(response, speed=100)
+    else:
+        st.session_state.messages.append(
+            {'role': 'system', 'content': 'Hiện tại không còn laptop nào phù hợp với yêu cầu của người dùng nữa rồi, hãy tìm kiếm lại nhé'}
+        )
+        st.session_state.conversation.append(
+            {'role': 'system', 'content': 'Hiện tại không còn laptop nào phù hợp với yêu cầu của người dùng nữa rồi, hãy tìm kiếm lại nhé'}
+        )
+
+        _type_writer('Hiện tại không còn laptop nào phù hợp với yêu cầu của người dùng nữa rồi, hãy tìm kiếm lại nhé', speed=100)
 
 
 def queries_db(**kwargs):
