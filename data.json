@@ -1,0 +1,18 @@
+{
+  "laptop_type": "Gaming",
+  "cpu": "i5-12450H",
+  "cpu_generation": 12,
+  "disk_type": "SSD",
+  "disk_size": 512,
+  "ram_gb": 16,
+  "max_ram_slot": 2,
+  "screen_size": 15.6,
+  "screen_resolution": "1920 x 1080",
+  "screen_refresh_rate": 144,
+  "gpu_type": "dedicated",
+  "gpu_model": "RTX 2050",
+  "weight_kg": 2.29,
+  "ports": "USB Type-C 3.2, HDMI, LAN (RJ45), 2 x USB 3.2, Jack tai nghe 3.5 mm",
+  "special_features": "Có đèn bàn phím",
+  "release_year": 2023
+}
