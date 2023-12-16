@@ -4,8 +4,11 @@ import streamlit as st
 import time
 import sys
 import os
+import sqlite3
 from datetime import datetime
 from openai import OpenAI
+
+from src.utils.gpt_trigger_function import build_filter_query, print_haha
 
 
 def my_exception_hook(exctype, value, tb):
@@ -26,45 +29,27 @@ def my_exception_hook(exctype, value, tb):
     traceback.print_tb(tb)
 
 
-def print_haha():
-    print('haha')
-    st.success('haha')
+def queries_db(**kwargs):
+    print('==========> Running queries_db function')
 
+    st.session_state.messages.append(
+        {"role": "system", "content": "Người dùng đang muốn tìm kiếm laptop với các thông số như sau"}
+    )
 
-def build_filter_query(**kwargs):
-    """
-        This function will build the filter query for SQLite.
-        In args, all the arguments are the columns of this schema:
-        ```
-        id: INTEGER
-        product_name: TEXT
-        url: TEXT
-        present_price: INTEGER
-        old_price: INTEGER
-        discount: REAL
-        manufacturer: TEXT
-        raw_html_path: TEXT
-        laptop_type: TEXT
-        cpu: TEXT
-        cpu_generation: INTEGER
-        disk_type: TEXT
-        disk_size: INTEGER
-        ram_gb: INTEGER
-        max_ram_slot: INTEGER
-        screen_size: REAL
-        screen_resolution: TEXT
-        screen_refresh_rate: INTEGER
-        gpu_type: TEXT
-        gpu_model: TEXT
-        weight_kg: REAL
-        ports: TEXT
-        special_features: TEXT
-        release_year: INTEGER
-        ```
+    query = build_filter_query(**kwargs)
+    print(f'==========> Query: {query}')
+    conn = sqlite3.connect('database/ttchat.db')
+    query_result = conn.execute(query).fetchall()
+    conn.commit()
+    conn.close()
 
-    Returns:
-        The select * (filter) queries for SQLite. Must have all the columns in the schema.
-    """
+    # Now convert the query result to a csv file
+    for x in query_result:
+        print(x)
+
+    st.session_state.messages.append(
+        {"role": "system", "content": "Đã tìm thấy laptop phù hợp với yêu cầu của bạn"}
+    )
 
 
 sys.excepthook = my_exception_hook
@@ -246,9 +231,6 @@ class ChatGUI():
             time.sleep(1 / speed)
 
     # --------------------------- Function for trigger event --------------------------- #
-
-    def queries_db(self) -> None:
-        pass
 
 
 if __name__ == '__main__':
