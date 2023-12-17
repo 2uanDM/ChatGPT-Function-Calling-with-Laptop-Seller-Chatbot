@@ -1,6 +1,6 @@
 # ChatInnov-Hackathon-Bot
 
-This repository keeps code for my hackathon competition in creating ChatGPT integrated chatbot
+This repository keeps code for my hackathon competition in creating ChatGPT integrated chatbot named "TTChat", you can try it out in this url: http://34.124.191.129:443/
 
 Github link: https://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@github.com/2uanDM/ChatInnov-Hackathon-Bot
 
