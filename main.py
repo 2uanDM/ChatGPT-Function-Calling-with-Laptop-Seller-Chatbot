@@ -7,6 +7,7 @@ import os
 import sqlite3
 from datetime import datetime
 from openai import OpenAI
+from dotenv import load_dotenv
 
 from src.utils.gpt_trigger_function import build_filter_query, print_haha
 from src.utils.csv_builder import create_temp_csv_file
@@ -14,6 +15,8 @@ from src.utils.chat_on_demand import chat_on_demand
 from src.utils.load_prompts import load_prompts
 from src.utils.google_sheet import read_data, update_data
 from src.utils.telegram import send_message
+
+load_dotenv()
 
 if 'current_query' not in st.session_state:
     st.session_state['current_query'] = None
@@ -450,8 +453,10 @@ class ChatGUI():
         self._init_sidebar()
         self._init_chatui()
 
+        load_dotenv()
+
         # Init OpenAI Client
-        self.client = OpenAI(api_key=os.getenv('OPENAI'))
+        self.client = OpenAI(api_key=self.BOT_CONFIG['OPENAI'])
 
         # Init message event
         self._message_event()
