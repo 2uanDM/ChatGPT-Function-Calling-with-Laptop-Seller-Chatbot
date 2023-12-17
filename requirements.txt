@@ -1,8 +1,6 @@
 openai==1.4.0
 python-dotenv==1.0.0
 streamlit
-scrapy
-requests
 beautifulsoup4
 webdriver-manager==4.0.1
 selenium==4.11.2
