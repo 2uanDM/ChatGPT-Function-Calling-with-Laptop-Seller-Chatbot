@@ -11,7 +11,7 @@ Github link: https://github_pat_11AV3KYZA0VTIbnpK77qEo_bEa7EPOuSNEbIADC0q8uyk1Ij
 Step 1: Clone the repository
 
 ```bash
-sudo -i git clone https://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@github.com/2uanDM/ChatInnov-Hackathon-Bot
+sudo git clone https://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@github.com/2uanDM/ChatInnov-Hackathon-Bot
 ```
 
 Step 2: cd to the directory
@@ -31,3 +31,36 @@ Step 4: Run the bot
 ```bash
 sudo streamlit run main.py --server.port 443
 ```
+
+Then you can access the GUI to chat with bot at:
+http://34.124.191.129:443/
+
+## Way 2: Using Docker
+
+Step 1: Clone the repository
+
+```bash
+sudo git clone https://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@github.com/2uanDM/ChatInnov-Hackathon-Bot
+```
+
+Step 2: cd to the directory
+
+```bash
+cd ChatInnov-Hackathon-Bot
+```
+
+Step 3: Build the docker image
+
+```bash
+sudo docker build -t chatinnov .
+```
+
+Step 4: Run the docker image
+
+```bash
+sudo docker run -p 443:443 chatinnov
+```
+
+Then you can access the GUI to chat with bot at:
+
+http://34.124.191.129:443/
