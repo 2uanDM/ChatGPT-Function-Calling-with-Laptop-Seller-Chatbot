@@ -23,7 +23,7 @@ cd ChatInnov-Hackathon-Bot
 Step 3: Install requirements
 
 ```bash
-pip install -r requirements.txt
+sudo pip install -r requirements.txt
 ```
 
 Step 4: Run the bot
