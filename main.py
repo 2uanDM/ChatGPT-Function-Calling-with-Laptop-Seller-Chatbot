@@ -13,6 +13,7 @@ from src.utils.csv_builder import create_temp_csv_file
 from src.utils.chat_on_demand import chat_on_demand
 from src.utils.load_prompts import load_prompts
 from src.utils.google_sheet import read_data, update_data
+from src.utils.telegram import send_message
 
 if 'current_query' not in st.session_state:
     st.session_state['current_query'] = None
@@ -59,6 +60,9 @@ def _submit_user_data():
         # Update the data
         update_data(data)
 
+        # Send message to telegram
+        send_message(data)
+
     msg = 'Đã gửi thông tin thành công, em sẽ liên hệ với anh/chị trong thời gian sớm nhất !'
     st.session_state.messages.append(
         {'role': 'assistant', 'content': msg}
@@ -66,7 +70,7 @@ def _submit_user_data():
     _type_writer(msg, speed=40)
 
     # Thank you for using the chatbot
-    msg = 'Em cảm ơn anh/chị đã sử dụng dịch vụ tư vấn của em - TTChat ạ'
+    msg = 'Em cảm ơn anh/chị đã sử dụng dịch vụ tư vấn của TTChat ạ'
     st.session_state.messages.append(
         {'role': 'assistant', 'content': msg}
     )
@@ -560,7 +564,7 @@ class ChatGUI():
                 answer = response.choices[0].message
 
             if answer.function_call:
-                _type_writer(f'Đang thực hiện hàm: {answer.function_call.name}')
+                print(f'==========> Function call: {answer.function_call.name}')
                 self.trigger_function(
                     status=True,
                     func_name=answer.function_call.name,
@@ -572,9 +576,6 @@ class ChatGUI():
                     {"role": "assistant", "content": response.choices[0].message.content})
                 st.session_state.conversation.append(
                     {"role": "assistant", "content": response.choices[0].message.content})
-
-            # Rerun to show the assistant's icon
-            # st.rerun()
 
     # --------------------------- Function for trigger event --------------------------- #
 
