@@ -16,7 +16,7 @@ from src.utils.load_prompts import load_prompts
 from src.utils.google_sheet import read_data, update_data
 from src.utils.telegram import send_message
 
-load_dotenv()
+load_dotenv(override=True)
 
 if 'current_query' not in st.session_state:
     st.session_state['current_query'] = None
