@@ -447,7 +447,7 @@ class ChatGUI():
         self._init_chatui()
 
         # Init OpenAI Client
-        self.client = OpenAI(api_key=self.BOT_CONFIG['openai_api_key'])
+        self.client = OpenAI(api_key=os.getenv('OPENAI'))
 
         # Init message event
         self._message_event()
