@@ -108,7 +108,7 @@
           "type": "array",
           "items": {
             "type": "string",
-            "description": "The screen resolution of the laptop that the user wants to buy. Must be in these format (1920 x 1080, 1366 x 768, ...).Note that user often ask like 'I want 2k screen', so you need to estimate the actual resolution yourself. Here are some guides: if use also mention to the screen ratio, then you need to remember to calculate correct resolution. For example, if the user wants just full hd but do not mention about ratio, then return ['1920 x 1080'] (default is 16:9), but if they want full hd and 16:10 ratio, then it must be ['1920 x 1200'], if the user wants full hd and 2k, return ['1920 x 1080','2560 x 1440']. If the user doesn't care about screen resolution, this value will be null"
+            "description": "The screen resolution of the laptop that the user wants to buy. Must be in these format (1920 x 1080, 1366 x 768, ...).Note that user often ask like 'I want 2k screen', so you need to estimate the actual resolution yourself. Here are some guides: if user also mention to the screen ratio, then you need to remember to calculate correct resolution. For example, if the user wants just full hd but do not mention about ratio, then return ['1920 x 1080'] (default is 16:9), but if they want full hd and 16:10 ratio, then it must be ['1920 x 1200'], if the user wants full hd and 2k, return ['1920 x 1080','2560 x 1440']. If the user doesn't care about screen resolution, this value will be null"
           },
           "description": "The screen resolution of the laptop that the user wants to buy."
         },
