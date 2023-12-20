@@ -335,16 +335,3 @@ if __name__ == '__main__':
     tgdd = Tgdd(headless=True)
     tgdd.get_all_product_links()
     # tgdd._crawl_raw_htmls()
-
-    # Test robustness (Done)
-    # data = []
-    # for file_name in os.listdir('data/raw_htmls/tgdd'):
-    #     print('Parsing', file_name)
-    #     item = tgdd.parse_specs(f'data/raw_htmls/tgdd/{file_name}')
-    #     data.append(item)
-    #     print('====')
-
-    # with open('data/tgdd_detail.json', 'w', encoding='utf-8') as f:
-    #     json.dump(data, f, indent=4, ensure_ascii=False)
-
-    # tgdd.feature_engineering()
