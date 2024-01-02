@@ -31,7 +31,28 @@ if 'show_form' not in st.session_state:
     st.session_state['show_form'] = False
 
 
-def _submit_user_data():
+def my_exception_hook(exctype, value, tb):
+    formatted_time = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
+
+    os.makedirs("logs", exist_ok=True)
+
+    with open("logs/error.log", "a", encoding='utf-8') as f:
+        f.write(f"==>> Time: {formatted_time}\n")
+        f.write(f"==>> Type: {exctype}\n")
+        f.write(f"==>> Value: {value}\n")
+        f.write("==>> Traceback:\n")
+        traceback.print_tb(tb, file=f)
+        f.write("\n")
+
+    print(f"==>> Type: {type}")
+    print(f"==>> Value: {value}")
+    traceback.print_tb(tb)
+
+
+sys.excepthook = my_exception_hook
+
+
+def __submit_user_data():
     # Get all data in sidebar
     data = {}
 
@@ -84,6 +105,12 @@ def _submit_user_data():
     st.session_state['show_form'] = False
 
 
+def __store_user_requirement(content: str) -> None:
+    st.session_state['user_requirement'] = content
+
+##################### Sidebar to leave contact info #####################
+
+
 if st.session_state['show_form']:
     # Create in sidebar
     st.sidebar.subheader('Thông tin khách hàng')
@@ -113,8 +140,10 @@ if st.session_state['show_form']:
         st.session_state.user_reason = reason
 
     # Submit button
-    submit = st.sidebar.button(label='Gửi thông tin', key='submit', on_click=_submit_user_data)
+    submit = st.sidebar.button(label='Gửi thông tin', key='submit', on_click=__submit_user_data)
 
+
+##################### Function to calculate the current message context #####################
 
 def current_context_calculator() -> int:
     text = ''
@@ -126,26 +155,7 @@ def current_context_calculator() -> int:
     return tokens
 
 
-def my_exception_hook(exctype, value, tb):
-    formatted_time = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
-
-    os.makedirs("logs", exist_ok=True)
-
-    with open("logs/error.log", "a", encoding='utf-8') as f:
-        f.write(f"==>> Time: {formatted_time}\n")
-        f.write(f"==>> Type: {exctype}\n")
-        f.write(f"==>> Value: {value}\n")
-        f.write("==>> Traceback:\n")
-        traceback.print_tb(tb, file=f)
-        f.write("\n")
-
-    print(f"==>> Type: {type}")
-    print(f"==>> Value: {value}")
-    traceback.print_tb(tb)
-
-
-sys.excepthook = my_exception_hook
-
+##################### Function to pseudo type writer smoothly #####################
 
 def _type_writer(text: str, speed: int = 100) -> None:
     if text is None or text == '':
@@ -157,6 +167,8 @@ def _type_writer(text: str, speed: int = 100) -> None:
         container.markdown(curr_full_text)
         time.sleep(1 / speed)
 
+
+##################### Function to trigger event #####################
 
 def release_context_token() -> None:
     """
@@ -211,10 +223,6 @@ def release_context_token() -> None:
         )
 
     _type_writer(message, speed=100)
-
-
-def store_user_requirement(content: str) -> None:
-    st.session_state['user_requirement'] = content
 
 
 def get_laptop_detail(which_one: str):
@@ -305,7 +313,7 @@ def queries_db(**kwargs):
     )
 
     # Next, store the user requirement
-    store_user_requirement(kwargs.get('content', ''))
+    __store_user_requirement(kwargs.get('content', ''))
 
     max_retry = 5
     while max_retry > 0:
@@ -581,8 +589,6 @@ class ChatGUI():
                     {"role": "assistant", "content": response.choices[0].message.content})
                 st.session_state.conversation.append(
                     {"role": "assistant", "content": response.choices[0].message.content})
-
-    # --------------------------- Function for trigger event --------------------------- #
 
 
 if __name__ == '__main__':
