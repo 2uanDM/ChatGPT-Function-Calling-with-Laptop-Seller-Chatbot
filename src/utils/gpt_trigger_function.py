@@ -74,7 +74,3 @@ def build_filter_query(**kwargs):
         query += condition
 
     return query
-
-
-def print_haha():
-    print('haha')

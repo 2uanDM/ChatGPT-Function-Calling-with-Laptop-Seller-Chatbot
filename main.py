@@ -9,7 +9,7 @@ from datetime import datetime
 from openai import OpenAI
 from dotenv import load_dotenv
 
-from src.utils.gpt_trigger_function import build_filter_query, print_haha
+from src.utils.gpt_trigger_function import build_filter_query
 from src.utils.csv_builder import create_temp_csv_file
 from src.utils.chat_on_demand import chat_on_demand
 from src.utils.load_prompts import load_prompts

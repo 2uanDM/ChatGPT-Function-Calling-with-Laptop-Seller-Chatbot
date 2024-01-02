@@ -1,80 +1,103 @@
-# ChatInnov-Hackathon-Bot
+# Chat'Innov Hackathon - Laptop Seller Chatbot
 
-This repository keeps code for my hackathon competition in creating ChatGPT integrated chatbot named "TTChat", you can try it out in this url: http://34.124.191.129:443/
+This repository contains the code for the [Chat'Innov Hackathon](https://hust.edu.vn/vi/news/tin-tuc-su-kien/sinh-vien-dai-hoc-bach-khoa-ha-noi-thang-ap-dao-cuoc-thi-chat-innov-2023-654946.html) with the goal of creating a chatbot that can help a "poor" student to buy a best laptop with a limited budget. In this hackathon, we won the 1st prize and the gift is an Dell 💻 Inspiron 15 laptop 😊
 
-Here is the slides show the way we create this chatbot: [Link slide](https://husteduvn-my.sharepoint.com/:p:/g/personal/kiet_pt214909_sis_hust_edu_vn/EYEfEKZsKrlNoTWA-Pct0hIBvfSb4QeYiqMjngdn03zOgQ?e=LfAabK) 
+This chatbot is created using:
 
-GitHub url (With authentication key to private repo):
+- [Streamlit](https://www.streamlit.io/) framework for GUI
 
-https://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@github.com/2uanDM/ChatInnov-Hackathon-Bot
+- [GPT-3.5-Turbo-16k](https://platform.openai.com/docs/models/gpt-3-5) model for the chatbot.
+
+The interesting thing here is that the chatbot is guided using a SQLite database containing ~ 240 laptops crawled from [Thế Giới Di Động](https://www.thegioididong.com/) and using the new feature of ChatGPT API - [Function Calling](https://platform.openai.com/docs/guides/function-calling) to using some predefined functions.
+
+![image](/images/home.png)
+
+---
 
 ## Installation
 
-### Way 1: Using Pip
-
-Step 1: Clone the repository
+- Clone this repository
 
 ```bash
-sudo git clone https://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@github.com/2uanDM/ChatInnov-Hackathon-Bot
+git clone https://github.com/2uanDM/ChatGPT-Function-Calling-with-Laptop-Seller-Chatbot
 ```
 
-Step 2: cd to the directory
+- Change your environment variables in `.env` file
+
+```
+OPENAI="YOUR OPENAI API KEY"
+TELEGRAM_ID="YOUR TELEGRAM ID"
+TELEGRAM_BOT_TOKEN="YOUR BOT TOKEN"
+```
+
+### Way 1: Run directly on your machine
+
+- Creating a virtual environment
 
 ```bash
-cd ChatInnov-Hackathon-Bot
+# On Windows
+python -m venv .venv
+
+# On Linux
+python3 -m venv .
+
+# Conda users
+conda create -n .venv python=3.11
 ```
 
-Step 3: Install requirements
+- Activate the virtual environment
 
 ```bash
-sudo pip install -r requirements.txt
+# On Windows
+source .venv/Scripts/activate
+
+# On Linux
+source .venv/bin/activate
+
+# Conda users
+conda activate .venv
 ```
 
-Step 4: Run the bot
+- Install the requirements
 
 ```bash
-sudo streamlit run main.py --server.port 443
+pip install -r requirements.txt
 ```
 
-Then you can access the GUI to chat with bot at:
-http://34.124.191.129:443/
-
-## Way 2: Using Docker
-
-Step 1: Clone the repository
+- Run the app
 
 ```bash
-sudo git clone https://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@github.com/2uanDM/ChatInnov-Hackathon-Bot
+streamlit run main.py
 ```
 
-Step 2: cd to the directory
+### Way 2: Using Docker
+
+- Build the image
 
 ```bash
-cd ChatInnov-Hackathon-Bot
+docker build -t chatinnov .
 ```
 
-Step 3: Build the docker image
+- Run the container
 
 ```bash
-sudo docker build -t chatinnov .
+docker run -p 443:443 chatinnov
 ```
 
-Step 4: Run the docker image
+(You can change the port to whatever you want)
 
-```bash
-sudo docker run -p 443:443 chatinnov
-```
+---
 
-Then you can access the GUI to chat with bot at:
+## Repository Structure
 
-http://34.124.191.129:443/
+| Name                 | Explain                                                                                                   | Location    |
+| -------------------- | --------------------------------------------------------------------------------------------------------- | ----------- |
+| [main.py](/main.py)  | The main file to run the app                                                                              | [~/]()      |
+| [temp_queries]()     | The folder that contain temporary csv (query results when user asking chatbot for a specific laptop spec) | [~/.temp]() |
+| [config](/config/)   | Folder that contain some configs for the app, including the function calling description                  | [~/]()      |
+| [images](/images/)   | Folder that contain some images for the README.md                                                         | [~/]()      |
+| [prompts](/prompts/) | Folder that contains some predefined prompts, acting as "system" in the GPT's API context                 | [~/]()      |
+| [src](/src/)         | Folder that contains the source code for crawler                                                          | [~/]()      |
+| [utils](/utils/)     | Folder that contains some utility functions                                                               | [~/]()      |
 
-## Note
-
-In the provided server, I have clone the repo to path: /home/ChatInnov-Hackathon-Bot and also build the docker image with name: chatinnov
-
-So you can directly run the docker image with command:
-
-```bash
-sudo docker run -p 443:443 chatinnov
-```
+---
